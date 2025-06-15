@@ -58,7 +58,7 @@ This will:
 - Create domain image folders
 - Build the Docker image (takes 5-10 minutes)
 
-### Step 6: Add Your Data
+### Step 5: Add Your Data
 
 **Add your images to the correct folders:**
 ```cmd
@@ -70,7 +70,7 @@ data/input_images/ICDAR/images/     ← All ICDAR images here
 ```
 
 
-### Step 7: Validate Setup (Optional)
+### Step 6: Validate Setup (Optional)
 
 ```cmd
 validate.bat (Windows) OR ./validate.sh (Mac/Linux)
@@ -82,7 +82,7 @@ This will:
 - Calculate available calibration images
 - Provide recommendations
 
-### Step 8: Compute Calibration Data
+### Step 7: Compute Calibration Data
 
 ```cmd
 compute_calibration.bat (Windows) OR ./compute_calibration.sh (Mac/Linux)
@@ -99,7 +99,7 @@ This will:
 - `data/calibration_data/calibration_scores_aps.npy`
 - `data/calibration_data/calibration_metadata.json`
 
-### Step 9: Run Streamlit App for User Interface Table Data Extraction
+### Step 8: Run Streamlit App for User Interface Table Data Extraction
 
 ```cmd
 run_app.bat (Windows) OR ./run_app.sh (Mac/Linux)
@@ -110,7 +110,7 @@ This will:
 - Start the web application at http://localhost:8501
 - Show real calibration statistics
 
-### Step 10: Use the Application
+### Step 9: Use the Application
 
 1. **Upload Image**: Drag & drop a table image
 2. **View Calibration Info**: Check sidebar for real calibration data statistics
@@ -121,7 +121,7 @@ This will:
 5. **Review**: Check flagged cells (highlighted in red)
 6. **Download**: Save results as JSON or CSV
 
-### Step 11: Stop When Done
+### Step 10: Stop When Done
 
 ```cmd
 stop_app.bat (Windows) OR ./stop_app.sh (Mac/Linux)
