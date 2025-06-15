@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text>Alloys</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>ΔS_min (J/(K mol))</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>ΔH_min (kJ / mol)</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="3" end_col="3">
+    <text>T_m (K)</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="4" end_col="4">
+    <text>Ω</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="5" end_col="5">
+    <text>δ(%)</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="6" end_col="6">
+    <text>VEC</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="7" end_col="7">
+    <text>MD (eV)</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="8" end_col="8">
+    <text>Δx_Alen (%)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text>Si_0</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>13.377</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>-11.04</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>1445.80</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="4" end_col="4">
+    <text>1.752</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="5" end_col="5">
+    <text>6.323</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="6" end_col="6">
+    <text>8.40</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="7" end_col="7">
+    <text>1.048</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="8" end_col="8">
+    <text>8.52</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>Si_0.05</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>13.668</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>-12.39</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>1445.44</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text>1.595</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="5" end_col="5">
+    <text>6.298</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="6" end_col="6">
+    <text>8.36</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="7" end_col="7">
+    <text>1.056</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="8" end_col="8">
+    <text>8.48</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>Si_0.1</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>13.926</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>-13.71</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>1445.08</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text>1.468</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="5" end_col="5">
+    <text>6.272</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="6" end_col="6">
+    <text>8.31</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="7" end_col="7">
+    <text>1.065</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="8" end_col="8">
+    <text>8.45</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>Si_0.2</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>14.225</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>-16.07</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>1444.42</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="4" end_col="4">
+    <text>1.279</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="5" end_col="5">
+    <text>6.224</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="6" end_col="6">
+    <text>8.23</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="7" end_col="7">
+    <text>1.080</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="8" end_col="8">
+    <text>8.38</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>Si_0.4</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>14.278</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>-20.32</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>1443.15</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="4" end_col="4">
+    <text>1.014</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="5" end_col="5">
+    <text>6.129</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="6" end_col="6">
+    <text>8.07</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="7" end_col="7">
+    <text>1.111</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="8" end_col="8">
+    <text>8.24</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>Si_0.5</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>14.699</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>-22.23</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>1442.54</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="4" end_col="4">
+    <text>0.954</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="5" end_col="5">
+    <text>6.076</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="6" end_col="6">
+    <text>8.00</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="7" end_col="7">
+    <text>1.125</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="8" end_col="8">
+    <text>8.23</text>
+  </cell>
+</table>

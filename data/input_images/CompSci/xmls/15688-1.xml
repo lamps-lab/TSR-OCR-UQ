@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text>Notation</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>Values</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>Description</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text>ε</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>ln(2), ln(4), ln(6), ln(8)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>differential privacy level</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>δ</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>0.5, 0.6, 0.7, 0.8</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>threshold for frequent locations</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>N</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>1083(FS), 1315 (CMCC)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>total number of users</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text></text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>5378(D4D)</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text></text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>α</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>5%. N</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>number of selected users</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>ρ</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>95%</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>probability for user selection</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>k</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>6</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>number of user groups</text>
+  </cell>
+</table>

@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text>Variety</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>Populations and resources</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>Mean ToxB sensitivity</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text>Alchemy</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>NIAB Elite MAGIC1</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>0.1</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>Ambition</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>BMW MAGIC2</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>Apogee</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>Apogee x Paragon3</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>Avalon</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>Avalon x Cadenza 4. Avalon x Cadenza NILs5</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>Batallion</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>Oakley x Batalion6</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>2</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>BAYP4535</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>BMW MAGIC2</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>Brompton</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>NIAB Elite MAGIC1</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="0" end_col="0">
+    <text>Bussard</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>BMW MAGIC2</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="0" end_col="0">
+    <text>Cadenza</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="1" end_col="1">
+    <text>Avalonx Cadenza4. Avalon x Cadenza NILS5. TILLING7</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="2" end_col="2">
+    <text>0.2</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="0" end_col="0">
+    <text>CS</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>Paragon x CS5. Reference genome8</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="0" end_col="0">
+    <text>Claire</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="1" end_col="1">
+    <text>NIAB Elite MAGIC1. Claire x Malacca9. Genome sequence10</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="2" end_col="2">
+    <text>0.2</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="0" end_col="0">
+    <text>Dic12b †</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="1" end_col="1">
+    <text>Tios x Dic12b 11</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="0" end_col="0">
+    <text>Event</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="1" end_col="1">
+    <text>BMW MAGIC2</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="0" end_col="0">
+    <text>Exsept</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="1" end_col="1">
+    <text>Oakley x Exsept6</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="0" end_col="0">
+    <text>Fir13565</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="1" end_col="1">
+    <text>BMW MAGIC2</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="0" end_col="0">
+    <text>Format</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="1" end_col="1">
+    <text>BMW MAGIC2</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="0" end_col="0">
+    <text>Gatsby</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="1" end_col="1">
+    <text>Oakley x Gatsby6</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="0" end_col="0">
+    <text>Hereward</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="1" end_col="1">
+    <text>NIAB Elite MAGIC1</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="2" end_col="2">
+    <text>0.2</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="0" end_col="0">
+    <text>Julius</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="1" end_col="1">
+    <text>BMW MAGIC2</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="0" end_col="0">
+    <text>Malacca</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="1" end_col="1">
+    <text>Claire x Malacca9</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="0" end_col="0">
+    <text>Oakley</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="1" end_col="1">
+    <text>Oakley x Batalion6, Oakley x Exsept6, Oakley x Gatsby6</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="2" end_col="2">
+    <text>0.1</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="0" end_col="0">
+    <text>Paragon</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="1" end_col="1">
+    <text>Paragon x CS5, Paragon x SHW CSSL12, genome sequence10</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="0" end_col="0">
+    <text>Potenzial</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="1" end_col="1">
+    <text>BMW MAGIC2</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="0" end_col="0">
+    <text>Rialto</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="1" end_col="1">
+    <text>NIAB Elite MAGIC1</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="2" end_col="2">
+    <text>0.2</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="0" end_col="0">
+    <text>Robigus</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="1" end_col="1">
+    <text>NIAB Elite MAGIC1. Genome sequence10</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="0" end_col="0">
+    <text>SHW-041</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="1" end_col="1">
+    <text>Paragon x SHW CSSL11</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="0" end_col="0">
+    <text>Soissons</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="1" end_col="1">
+    <text>NIAB Elite MAGIC1</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="2" end_col="2">
+    <text>0.7</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="0" end_col="0">
+    <text>Tios †</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="1" end_col="1">
+    <text>Tios x Dic12b11</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="0" end_col="0">
+    <text>Xi19</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="1" end_col="1">
+    <text>NIAB Elite MAGIC1. Solstice x Xi19</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="2" end_col="2">
+    <text>2.8</text>
+  </cell>
+</table>

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text>Symbol</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>Description</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text>l_min</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>Length of the smallest time epoch</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>S</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>Number of scales</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>α^t</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>Dirichlet prior for the topics at time epoch t</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>K</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>Number of latent topics to be inferred</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>W</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>Vocabulary, the unique word set</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>N</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>Total number of words in the corpus</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>D^t</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>Documents at time epoch t</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="0" end_col="0">
+    <text>D^(t,s)</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>Documents at time epoch t with time scale s</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="0" end_col="0">
+    <text>N_i^t</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="1" end_col="1">
+    <text>Number of words in the i^th document at time epoch t</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="0" end_col="0">
+    <text>w_{i,j}^t</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>j^th word in the i^th document at time epoch t</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="0" end_col="0">
+    <text>k_{i,j}^t</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="1" end_col="1">
+    <text>Topic of j^th word in the i^th document at Time epoch t</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="0" end_col="0">
+    <text>θ_i^t</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="1" end_col="1">
+    <text>Multinomial distribution over topics for the i^th document at time epoch t</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="0" end_col="0">
+    <text>φ_k^t</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="1" end_col="1">
+    <text>Multinomial distribution over words for the k^th topics at time epoch t</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="0" end_col="0">
+    <text>ψ_{k,m}^t</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="1" end_col="1">
+    <text>Multinomial distribution over words for the k^th document at time epoch t in the m^th scale in the past</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="0" end_col="0">
+    <text>μ_m^t</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="1" end_col="1">
+    <text>Weighting factor for the m^th scale in the past at time epoch t</text>
+  </cell>
+</table>

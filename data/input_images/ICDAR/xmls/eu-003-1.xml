@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text />
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>All companies analysed</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>FTSE Eurotop 100 companies analysed</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text>Number of member states in the analysis</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>21</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>8</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>Number of member states where one or more of the financial companies applied the amendment</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>11</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>3</text>
+  </cell>
+</table>

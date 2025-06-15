@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text>System</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="2">
+    <text>MoTa_{1.0}NbVTi</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="3" end_col="4">
+    <text>MoTa_{0.75}NbVTi</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="5" end_col="6">
+    <text>MoTa_{0.50}NbVTi</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="7" end_col="8">
+    <text>MoTa_{0.25}NbVTi</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text>Hardness</text>
+  </cell>
+ <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>HV_{0.5} (MPa)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>HRC</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>HV_{0.5} (MPa)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="4" end_col="4">
+    <text>HRC</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="5" end_col="5">
+    <text>HV_{0.5} (MPa)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="6" end_col="6">
+    <text>HRC</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="7" end_col="7">
+    <text>HV_{0.5} (MPa)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="8" end_col="8">
+    <text>HRC</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>1</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>5925</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>59</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>5936</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text>60</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="5" end_col="5">
+    <text>6096</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="6" end_col="6">
+    <text>59</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="7" end_col="7">
+    <text>6180</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="8" end_col="8">
+    <text>57</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>2</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>5765</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>59</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>5925</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text>59</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="5" end_col="5">
+    <text>6001</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="6" end_col="6">
+    <text>57</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="7" end_col="7">
+    <text>5913</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="8" end_col="8">
+    <text>55</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>3</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>5959</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>59</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>5935</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="4" end_col="4">
+    <text>57</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="5" end_col="5">
+    <text>5818</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="6" end_col="6">
+    <text>58</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="7" end_col="7">
+    <text>5916</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="8" end_col="8">
+    <text>55</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>4</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>5979</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>56</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>5949</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="4" end_col="4">
+    <text>56</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="5" end_col="5">
+    <text>6032</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="6" end_col="6">
+    <text>59</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="7" end_col="7">
+    <text>5933</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="8" end_col="8">
+    <text>56</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>5</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>5999</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>58</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>5917</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="4" end_col="4">
+    <text>60</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="5" end_col="5">
+    <text>5934</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="6" end_col="6">
+    <text>58</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="7" end_col="7">
+    <text>5728</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="8" end_col="8">
+    <text>54</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>Average value</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>5925 ± 84</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>58 ± 2</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="3" end_col="3">
+    <text>5932 ± 11</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="4" end_col="4">
+    <text>58 ± 2</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="5" end_col="5">
+    <text>5976 ± 95</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="6" end_col="6">
+    <text>58 ± 1</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="7" end_col="7">
+    <text>5934 ± 144</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="8" end_col="8">
+    <text>55 ± 1</text>
+  </cell>
+</table>

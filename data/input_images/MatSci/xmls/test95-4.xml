@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text></text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>MoTa_{1.0}NbVTi</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>MoTa_{0.75}NbVTi</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="3" end_col="3">
+    <text>MoTa_{0.50}NbVTi</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="4" end_col="4">
+    <text>MoTa_{0.25}NbVTi</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text>Maximum compressive strength, σ_m (MPa)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>1463 ± 124</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>1686 ± 193</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>1724 ± 131</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="4" end_col="4">
+    <text>1778 ± 175</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>Plastic strain, ε_p (%)</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>6.94 ± 0.22</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>6.95 ± 1.31</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>7.97 ± 1.63</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text>10.7 ± 0.54</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>Compression modulus, E_comp (GPa)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>49 ± 8</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>62 ± 6</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>52 ± 4</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text>60 ± 2</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>Fracture energy per unit volume, W (kJ/m^3)</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>7378 ± 122</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>8648 ± 1612</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>10,072 ± 2866</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="4" end_col="4">
+    <text>15,253 ± 412</text>
+  </cell>
+</table>

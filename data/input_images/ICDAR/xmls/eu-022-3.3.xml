@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="1" start_col="0" end_col="0">
+    <text>Substance</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="4">
+    <text>Frequency of substance abuse</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>In the last month</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>In the last year</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>More than a year</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="4" end_col="4">
+    <text>Never</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>Cannabis</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>9.6 %</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>4.0 %</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>6.3 %</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text>80.1 %</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>Inhalants</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>2.7 %</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>1.6 %</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>4.1 %</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text>91.6 %</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>Ecstasy</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>2.1 %</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>0.9 %</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>3.0 %</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="4" end_col="4">
+    <text>94.0 %</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>Anabolic steroids</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>2.1 %</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>0.2 %</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>0.7 %</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="4" end_col="4">
+    <text>97.0 %</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>Magic mushrooms</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>2.1 %</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>0.5 %</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>1.1 %</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="4" end_col="4">
+    <text>96.3 %</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>Heroin</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>0.5 %</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>0.0 %</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="3" end_col="3">
+    <text>0.5 %</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="4" end_col="4">
+    <text>99.0 %</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="0" end_col="0">
+    <text>Amphetamines</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>2.5 %</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="2" end_col="2">
+    <text>0.7 %</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="3" end_col="3">
+    <text>0.7 %</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="4" end_col="4">
+    <text>96.1 %</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="0" end_col="0">
+    <text>Ketamine</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="1" end_col="1">
+    <text>2.1 %</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="2" end_col="2">
+    <text>0.0 %</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="3" end_col="3">
+    <text>0.5 %</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="4" end_col="4">
+    <text>97.4 %</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="0" end_col="0">
+    <text>LSD</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>2.3 %</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="2" end_col="2">
+    <text>0.9 %</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="3" end_col="3">
+    <text>1.4 %</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="4" end_col="4">
+    <text>95.4 %</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="0" end_col="0">
+    <text>Cocaine</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="1" end_col="1">
+    <text>4.4 %</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="2" end_col="2">
+    <text>1.6 %</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="3" end_col="3">
+    <text>1.8 %</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="4" end_col="4">
+    <text>92.2 %</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="0" end_col="0">
+    <text>GHB</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="1" end_col="1">
+    <text>1.1 %</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="2" end_col="2">
+    <text>0.0 %</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="3" end_col="3">
+    <text>0.0 %</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="4" end_col="4">
+    <text>98.9 %</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="0" end_col="0">
+    <text>Tranquillisers</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="1" end_col="1">
+    <text>3.4 %</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="2" end_col="2">
+    <text>1.4 %</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="3" end_col="3">
+    <text>1.8 %</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="4" end_col="4">
+    <text>93.4 %</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="0" end_col="0">
+    <text>Ritalin</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="1" end_col="1">
+    <text>1.1 %</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="2" end_col="2">
+    <text>0.0 %</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="3" end_col="3">
+    <text>0.0 %</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="4" end_col="4">
+    <text>98.9 %</text>
+  </cell>
+</table>

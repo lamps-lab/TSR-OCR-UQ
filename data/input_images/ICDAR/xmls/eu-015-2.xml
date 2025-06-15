@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text>Topic</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>Enquiries</text>
+  </cell>
+  <cell start_row="1" end_row="3" start_col="0" end_col="0">
+    <text>Other specific policies including Competition, External trade, Enlargement, Agriculture and rural development, Regional policy, Information Society and media, Culture, Economic and monetary affairs, Research and innovation, Fisheries and maritime affairs, Internal Market and services and Environment</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>4.330</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>EIT</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>119</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>Research enquiry service</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>2.003</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>Export Helpdesk</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>169</text>
+  </cell>
+  <cell start_row="7" end_row="9" start_col="0" end_col="0">
+    <text>Practicalities (Including complaints, OPOCE, mission, history, issues not related to the EU, bilateral agreements, national authorities, request for contact details and request for</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>2.417</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="0" end_col="0">
+    <text>Grand Total</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>23.900</text>
+  </cell>
+</table>

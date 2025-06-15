@@ -1,0 +1,266 @@
+{
+  "Biology": {
+    "test_data": [
+      {
+        "image_name": "ECE_9_6901-A1.png",
+        "best_threshold": 0.001
+      },
+      {
+        "image_name": "CAM4_12_18786-1.png",
+        "best_threshold": 0.001
+      },
+      {
+        "image_name": "122_2019_Article_3517-1.png",
+        "best_threshold": 0.006
+      },
+      {
+        "image_name": "bioengineering_10_00154-1.png",
+        "best_threshold": 0.012
+      },
+      {
+        "image_name": "1471_2164_11_551-1.png",
+        "best_threshold": 0.167
+      },
+      {
+        "image_name": "12864_2016_Article_2858-1.png",
+        "best_threshold": 0.007
+      },
+      {
+        "image_name": "12711_2023_Article_837-1.png",
+        "best_threshold": 0.038
+      }
+    ]
+  },
+  "CompSci": {
+    "test_data": [
+      {
+        "image_name": "16018-7.png",
+        "best_threshold": 0.029
+      },
+      {
+        "image_name": "15688-1.png",
+        "best_threshold": 0.018
+      },
+      {
+        "image_name": "16018-9.png",
+        "best_threshold": 0.009
+      },
+      {
+        "image_name": "15676-2.png",
+        "best_threshold": 0.059
+      },
+      {
+        "image_name": "16089-8.png",
+        "best_threshold": 0.076
+      },
+      {
+        "image_name": "15826-2.png",
+        "best_threshold": 0.001
+      },
+      {
+        "image_name": "16082-4.png",
+        "best_threshold": 0.002
+      },
+      {
+        "image_name": "15681-3.png",
+        "best_threshold": 0.04
+      },
+      {
+        "image_name": "16023-1.png",
+        "best_threshold": 0.022
+      },
+      {
+        "image_name": "15692-4.png",
+        "best_threshold": 0.009
+      },
+      {
+        "image_name": "15706-3.png",
+        "best_threshold": 0.001
+      },
+      {
+        "image_name": "15690-1.png",
+        "best_threshold": 0.001
+      },
+      {
+        "image_name": "15700-1.png",
+        "best_threshold": 0.001
+      },
+      {
+        "image_name": "15701-2.png",
+        "best_threshold": 0.065
+      },
+      {
+        "image_name": "15665-2.png",
+        "best_threshold": 0.006
+      },
+      {
+        "image_name": "16023-2.png",
+        "best_threshold": 0.001
+      }
+    ]
+  },
+  "ICDAR": {
+    "test_data": [
+      {
+        "image_name": "eu-023-3.4.png",
+        "best_threshold": 0.005
+      },
+      {
+        "image_name": "eu-003-1.png",
+        "best_threshold": 0.001
+      },
+      {
+        "image_name": "eu-008-1.png",
+        "best_threshold": 0.092
+      },
+      {
+        "image_name": "us-011a-1.png",
+        "best_threshold": 0.007
+      },
+      {
+        "image_name": "us-013-1.png",
+        "best_threshold": 0.04
+      },
+      {
+        "image_name": "eu-001-4.png",
+        "best_threshold": 0.038
+      },
+      {
+        "image_name": "eu-026-1.png",
+        "best_threshold": 0.001
+      },
+      {
+        "image_name": "eu-004-6.1.png",
+        "best_threshold": 0.001
+      },
+      {
+        "image_name": "eu-007-8.21.png",
+        "best_threshold": 0.001
+      },
+      {
+        "image_name": "eu-003-2.png",
+        "best_threshold": 0.003
+      },
+      {
+        "image_name": "us-017-3.png",
+        "best_threshold": 0.018
+      },
+      {
+        "image_name": "eu-018-CA7.png",
+        "best_threshold": 0.028
+      },
+      {
+        "image_name": "us-017-2.png",
+        "best_threshold": 0.001
+      },
+      {
+        "image_name": "us-017-1.png",
+        "best_threshold": 0.001
+      },
+      {
+        "image_name": "us-027-2.png",
+        "best_threshold": 0.026
+      },
+      {
+        "image_name": "eu-006-8.14.png",
+        "best_threshold": 0.002
+      },
+      {
+        "image_name": "eu-004-6.2.png",
+        "best_threshold": 0.001
+      },
+      {
+        "image_name": "eu-007-8.18.png",
+        "best_threshold": 0.001
+      },
+      {
+        "image_name": "eu-012-3.png",
+        "best_threshold": 0.025
+      },
+      {
+        "image_name": "eu-022-3.3.png",
+        "best_threshold": 0.011
+      }
+    ]
+  },
+  "MatSci": {
+    "test_data": [
+      {
+        "image_name": "test95-4.png",
+        "best_threshold": 0.002
+      },
+      {
+        "image_name": "test33-3.png",
+        "best_threshold": 0.016
+      },
+      {
+        "image_name": "test54-1.png",
+        "best_threshold": 0.004
+      },
+      {
+        "image_name": "test50-5.png",
+        "best_threshold": 0.036
+      },
+      {
+        "image_name": "test56-3.png",
+        "best_threshold": 0.002
+      },
+      {
+        "image_name": "test38-1.png",
+        "best_threshold": 0.015
+      },
+      {
+        "image_name": "test27-2.png",
+        "best_threshold": 0.022
+      },
+      {
+        "image_name": "test16-3.png",
+        "best_threshold": 0.016
+      },
+      {
+        "image_name": "test75-1.png",
+        "best_threshold": 0.007
+      },
+      {
+        "image_name": "test23-1.png",
+        "best_threshold": 0.025
+      },
+      {
+        "image_name": "test16-2.png",
+        "best_threshold": 0.003
+      },
+      {
+        "image_name": "test21-1.png",
+        "best_threshold": 0.004
+      },
+      {
+        "image_name": "test80-1.png",
+        "best_threshold": 0.01
+      },
+      {
+        "image_name": "test80-2.png",
+        "best_threshold": 0.104
+      },
+      {
+        "image_name": "test95-3.png",
+        "best_threshold": 0.009
+      },
+      {
+        "image_name": "test32-3.png",
+        "best_threshold": 0.007
+      },
+      {
+        "image_name": "test33-2.png",
+        "best_threshold": 0.001
+      },
+      {
+        "image_name": "test64-2.png",
+        "best_threshold": 0.005
+      },
+      {
+        "image_name": "test56-1.png",
+        "best_threshold": 0.05
+      }
+    ]
+  }
+}

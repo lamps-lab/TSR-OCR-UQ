@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text>System</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>Acc</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>F1</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text>(Blacoe and Lapata 2012)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>73.0</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>82.3</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>(Wan et al. 2006)</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>75.6</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>83.0</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>(Madnani, Tetreault, and Chodorow 2012)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>77.4</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>84.1</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>(Ji and Eisenstein 2013)</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>80.4</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>86.0</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>(Hu et al. 2014)</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>69.9</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>80.9</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>(Socher et al. 2011)</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>76.8</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>83.6</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>(Yin and Schutze 2015) - without pretraining</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>72.5</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>81.4</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="0" end_col="0">
+    <text>(Yin and Schutze 2015) - with pretraining</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>78.1</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="2" end_col="2">
+    <text>84.4</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="0" end_col="0">
+    <text>(He, Gimpel, and Lin 2015) - without POS embeddings</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="1" end_col="1">
+    <text>77.8</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="2" end_col="2">
+    <text>N/A</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="0" end_col="0">
+    <text>(He, Gimpel, and Lin 2015) - with POS and Para. embeddings</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>78.6</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="2" end_col="2">
+    <text>84.7</text>
+  </cell>
+   <cell start_row="11" end_row="11" start_col="0" end_col="0">
+    <text>CA-RNN (ATT)</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="1" end_col="1">
+    <text>77.3</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="2" end_col="2">
+    <text>84.0</text>
+  </cell>
+</table>

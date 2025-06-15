@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text>Question</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>Answer</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>Sentence (Premise)</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="3" end_col="3">
+    <text>Q+A as sentence (Hypothesis)</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="4" end_col="4">
+    <text>Label</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text>When waves of two different frequencies interfere, what phenomenon occurs?</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>beating</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>Beats are the periodic and repeating fluctuations heard in the intensity of a sound when two sound waves of very similar frequencies interfere with one another.</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>When waves of two different frequencies interfere, beating occurs.</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="4" end_col="4">
+    <text>entails</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>Because trees add water vapor to air, cutting down forests leads to longer periods of what?</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>drought</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>During periods of drought, trees died and prairie plants took over previously forested regions.</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>Because trees add water vapor to air, cutting down forests leads to longer periods of drought.</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text>neutral</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>What material comprises the sun and other stars, as well as lightning and the northern lights?</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>plasma</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>Our Sun and other stars are in the plasma state.</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>Plasma comprises the sun and other stars, as well as lightning and the northern lights.</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text>-</text>
+  </cell>
+</table>

@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text>District Totals</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>FY 2007</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>FY 2008</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="3" end_col="3">
+    <text>FY 2009</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="4" end_col="4">
+    <text>FY 2010</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="5" end_col="5">
+    <text>FY 2011</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text>Investigative Matters Received by AUSAs</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>426</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>365</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>285</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="4" end_col="4">
+    <text>402</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="5" end_col="5">
+    <text>387</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>Defendants Charged</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>290</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>259</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>235</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text>259</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="5" end_col="5">
+    <text>215</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>Cases Charged</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>217</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>197</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>173</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text>177</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="5" end_col="5">
+    <text>168</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>Defendants Sentenced</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>287</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>242</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>223</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="4" end_col="4">
+    <text>207</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="5" end_col="5">
+    <text>208</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>No Prison Term</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>148</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>107</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>126</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="4" end_col="4">
+    <text>121</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="5" end_col="5">
+    <text>102</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>1-12 Months</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>52</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>48</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>35</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="4" end_col="4">
+    <text>38</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="5" end_col="5">
+    <text>27</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>13-24 Months</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>37</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>45</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="3" end_col="3">
+    <text>29</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="4" end_col="4">
+    <text>27</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="5" end_col="5">
+    <text>33</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="0" end_col="0">
+    <text>25-36 Months</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>20</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="2" end_col="2">
+    <text>20</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="3" end_col="3">
+    <text>6</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="4" end_col="4">
+    <text>10</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="5" end_col="5">
+    <text>17</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="0" end_col="0">
+    <text>37-60 Months</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="1" end_col="1">
+    <text>14</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="2" end_col="2">
+    <text>19</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="3" end_col="3">
+    <text>18</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="4" end_col="4">
+    <text>7</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="5" end_col="5">
+    <text>21</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="0" end_col="0">
+    <text>60+ Months</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>16</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="2" end_col="2">
+    <text>3</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="3" end_col="3">
+    <text>9</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="4" end_col="4">
+    <text>4</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="5" end_col="5">
+    <text>8</text>
+  </cell>
+</table>

@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text />
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>IEAA</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>Hannum</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="3" end_col="3">
+    <text>PhenoAge</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="4" end_col="4">
+    <text>GrimAge</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="5" end_col="5">
+    <text>Granulocyte</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="6" end_col="6">
+    <text>PAI-1</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text>GWAS loci (a)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>24 EUR 9 AFR</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>9 EUR 11 AFR</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>12 EUR 12 AFR</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="4" end_col="4">
+    <text>4 EUR 11 AFR</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="5" end_col="5">
+    <text>2 EUR 27 AFR</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="6" end_col="6">
+    <text>5 EUR 11 AFR</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>Gene-based GWAS (b)</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>40 EUR 13 AFR</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>29 EUR 13 AFR</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>46 EUR 18 AFR</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text>5 EUR 14 AFR</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="5" end_col="5">
+    <text>7 EUR 209 AFR</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="6" end_col="6">
+    <text>2 EUR 9 AFR</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>Functional enrichment (EUR) (c)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>193</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>3</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>1</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text>0</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="5" end_col="5">
+    <text>0</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="6" end_col="6">
+    <text>0</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>Pathway analyses (d)</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>0</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>0</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="4" end_col="4">
+    <text>0</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="5" end_col="5">
+    <text>35 AFR 0 EUR</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="6" end_col="6">
+    <text>0</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>GWAS Catalog Enrichment(EUR) (e)</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>5</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>0</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="4" end_col="4">
+    <text>6</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="5" end_col="5">
+    <text>21</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="6" end_col="6">
+    <text>2</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>Colocalisation (EUR)</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>7</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>0</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="4" end_col="4">
+    <text>1</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="5" end_col="5">
+    <text>0</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="6" end_col="6">
+    <text>0</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>Heritability (EUR)</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>0.17</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>0.11</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="3" end_col="3">
+    <text>0.10</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="4" end_col="4">
+    <text>0.10</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="5" end_col="5">
+    <text>0.08</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="6" end_col="6">
+    <text>0.02</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="0" end_col="0">
+    <text>Genetic correlations (EUR)</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>0</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="3" end_col="3">
+    <text>36</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="4" end_col="4">
+    <text>107</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="5" end_col="5">
+    <text>0</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="6" end_col="6">
+    <text>0</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="0" end_col="0">
+    <text>Polygenic Risk Score Max R^(2) (EUR) (f)</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="1" end_col="1">
+    <text>2.37%</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="2" end_col="2">
+    <text>1.13%</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="3" end_col="3">
+    <text>1.38%</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="4" end_col="4">
+    <text>1.07%</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="5" end_col="5">
+    <text>0.76%</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="6" end_col="6">
+    <text>1.62%</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="0" end_col="0">
+    <text>Mendelian Randomisation (EUR) (g)</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>0</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="2" end_col="2">
+    <text>3</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="3" end_col="3">
+    <text>6</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="4" end_col="4">
+    <text>11</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="5" end_col="5">
+    <text>13</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="6" end_col="6">
+    <text>1</text>
+  </cell>
+</table>

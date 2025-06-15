@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="1" start_col="0" end_col="0">
+    <text>Datasets</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="7">
+    <text>NMI index (%)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>Karrer</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>SNMF</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>BNMTF</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="4" end_col="4">
+    <text>MNDP</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="5" end_col="5">
+    <text>DNR_L2</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="6" end_col="6">
+    <text>DNR_CE</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="7" end_col="7">
+    <text>NetMRF</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>Karate club</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>83.72</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>100</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>100</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text>100</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="5" end_col="5">
+    <text>100</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="6" end_col="6">
+    <text>100</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="7" end_col="7">
+    <text>100</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>Friendship6</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>77.02</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>78.64</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>71.22</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text>79.30</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="5" end_col="5">
+    <text>88.8</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="6" end_col="6">
+    <text>92.4</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="7" end_col="7">
+    <text>93.98</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>Friendship7</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>85.10</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>82.11</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>84.30</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="4" end_col="4">
+    <text>84.26</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="5" end_col="5">
+    <text>90.7</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="6" end_col="6">
+    <text>93.2</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="7" end_col="7">
+    <text>93.24</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>Political books</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>54.20</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>56.48</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>51.18</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="4" end_col="4">
+    <text>53.01</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="5" end_col="5">
+    <text>55.2</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="6" end_col="6">
+    <text>58.2</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="7" end_col="7">
+    <text>56.88</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>US Football</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>87.06</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>90.38</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>92.42</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="4" end_col="4">
+    <text>92.42</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="5" end_col="5">
+    <text>92.7</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="6" end_col="6">
+    <text>91.4</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="7" end_col="7">
+    <text>92.42</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>Political blogs</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>45.68</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>70.95</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="3" end_col="3">
+    <text>70.78</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="4" end_col="4">
+    <text>71.07</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="5" end_col="5">
+    <text>38.9</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="6" end_col="6">
+    <text>51.7</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="7" end_col="7">
+    <text>71.83</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="0" end_col="0">
+    <text>Cora</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>17.06</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="2" end_col="2">
+    <text>24.72</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="3" end_col="3">
+    <text>26.08</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="4" end_col="4">
+    <text>33.99</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="5" end_col="5">
+    <text>N/A</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="6" end_col="6">
+    <text>N/A</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="7" end_col="7">
+    <text>37.24</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="0" end_col="0">
+    <text>UAI2010</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="1" end_col="1">
+    <text>20.98</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="2" end_col="2">
+    <text>23.24</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="3" end_col="3">
+    <text>21.68</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="4" end_col="4">
+    <text>25.01</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="5" end_col="5">
+    <text>N/A</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="6" end_col="6">
+    <text>N/A</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="7" end_col="7">
+    <text>25.76</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="0" end_col="0">
+    <text>Northeastern</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>49.13</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="2" end_col="2">
+    <text>38.66</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="3" end_col="3">
+    <text>-</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="4" end_col="4">
+    <text>40.67</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="5" end_col="5">
+    <text>N/A</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="6" end_col="6">
+    <text>N/A</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="7" end_col="7">
+    <text>45.24</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="0" end_col="0">
+    <text>PubMed</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="1" end_col="1">
+    <text>12.28</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="2" end_col="2">
+    <text>13.80</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="3" end_col="3">
+    <text>-</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="4" end_col="4">
+    <text>14.96</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="5" end_col="5">
+    <text>N/A</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="6" end_col="6">
+    <text>N/A</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="7" end_col="7">
+    <text>16.89</text>
+  </cell>
+</table>

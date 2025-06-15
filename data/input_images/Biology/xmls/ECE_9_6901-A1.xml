@@ -1,0 +1,867 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text>No</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>River</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>Latitude</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="3" end_col="3">
+    <text>Longitude</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="4" end_col="4">
+    <text>Sample type</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="5" end_col="5">
+    <text>No samples</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="6" end_col="6">
+    <text>No samples after fullsib removal</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="7" end_col="7">
+    <text>No total alleles</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="8" end_col="8">
+    <text>Ar</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text>1</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>Unya</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>68.2122</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>54.2189</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="5" end_col="5">
+    <text>48</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="6" end_col="6">
+    <text>32</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="7" end_col="7">
+    <text>131</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="8" end_col="8">
+    <text>6.95</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>2</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>Onega</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>63.9167</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>38.0000</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text>Smolt</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="5" end_col="5">
+    <text>88</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="6" end_col="6">
+    <text>72</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="7" end_col="7">
+    <text>157</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="8" end_col="8">
+    <text>7.16</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>3</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>Kovda</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>66.6833</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>32.8500</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="5" end_col="5">
+    <text>47</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="6" end_col="6">
+    <text>26</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="7" end_col="7">
+    <text>78</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="8" end_col="8">
+    <text>4.29</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>4</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>Kanda</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>67.1292</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>31.9053</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="5" end_col="5">
+    <text>55</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="6" end_col="6">
+    <text>52</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="7" end_col="7">
+    <text>186</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="8" end_col="8">
+    <text>8.85</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>5</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>Kolvitsa</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>67.0833</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>32.9833</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="5" end_col="5">
+    <text>45</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="6" end_col="6">
+    <text>44</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="7" end_col="7">
+    <text>186</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="8" end_col="8">
+    <text>9.17</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>6</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>Umba</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>66.6667</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>34.3000</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="5" end_col="5">
+    <text>89</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="6" end_col="6">
+    <text>72</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="7" end_col="7">
+    <text>192</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="8" end_col="8">
+    <text>8.71</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>7</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>Varzuga</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>66.2167</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="3" end_col="3">
+    <text>36.9667</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="5" end_col="5">
+    <text>91</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="6" end_col="6">
+    <text>88</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="7" end_col="7">
+    <text>213</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="8" end_col="8">
+    <text>9.16</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="0" end_col="0">
+    <text>8</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>Kitsa</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="2" end_col="2">
+    <text>66.3020</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="3" end_col="3">
+    <text>36.8620</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="5" end_col="5">
+    <text>96</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="6" end_col="6">
+    <text>85</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="7" end_col="7">
+    <text>211</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="8" end_col="8">
+    <text>9.34</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="0" end_col="0">
+    <text>9</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="1" end_col="1">
+    <text>Ponoi</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="2" end_col="2">
+    <text>66.9833</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="3" end_col="3">
+    <text>41.2833</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="5" end_col="5">
+    <text>141</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="6" end_col="6">
+    <text>140</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="7" end_col="7">
+    <text>251</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="8" end_col="8">
+    <text>9.98</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="0" end_col="0">
+    <text>10</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>lokanga</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="2" end_col="2">
+    <text>68.0000</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="3" end_col="3">
+    <text>39.7167</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="5" end_col="5">
+    <text>78</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="6" end_col="6">
+    <text>77</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="7" end_col="7">
+    <text>230</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="8" end_col="8">
+    <text>10.06</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="0" end_col="0">
+    <text>11</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="1" end_col="1">
+    <text>Drozdovka</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="2" end_col="2">
+    <text>68.3000</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="3" end_col="3">
+    <text>38.4500</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="5" end_col="5">
+    <text>63</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="6" end_col="6">
+    <text>49</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="7" end_col="7">
+    <text>174</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="8" end_col="8">
+    <text>8.48</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="0" end_col="0">
+    <text>12</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="1" end_col="1">
+    <text>Penka</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="2" end_col="2">
+    <text>68.3500</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="3" end_col="3">
+    <text>38.3000</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="5" end_col="5">
+    <text>42</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="6" end_col="6">
+    <text>38</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="7" end_col="7">
+    <text>195</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="8" end_col="8">
+    <text>9.64</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="0" end_col="0">
+    <text>13</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="1" end_col="1">
+    <text>Varzina</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="2" end_col="2">
+    <text>68.3667</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="3" end_col="3">
+    <text>38.3500</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="5" end_col="5">
+    <text>61</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="6" end_col="6">
+    <text>55</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="7" end_col="7">
+    <text>214</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="8" end_col="8">
+    <text>9.88</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="0" end_col="0">
+    <text>14</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="1" end_col="1">
+    <text>Sidorovka</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="2" end_col="2">
+    <text>68.4833</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="3" end_col="3">
+    <text>38.0833</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="5" end_col="5">
+    <text>74</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="6" end_col="6">
+    <text>55</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="7" end_col="7">
+    <text>217</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="8" end_col="8">
+    <text>10.17</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="0" end_col="0">
+    <text>15</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="1" end_col="1">
+    <text>Vostochnaya Litsa</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="2" end_col="2">
+    <text>68.6333</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="3" end_col="3">
+    <text>37.8000</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="5" end_col="5">
+    <text>87</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="6" end_col="6">
+    <text>70</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="7" end_col="7">
+    <text>233</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="8" end_col="8">
+    <text>10.25</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="0" end_col="0">
+    <text>16</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="1" end_col="1">
+    <text>Kharlovka</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="2" end_col="2">
+    <text>68.7833</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="3" end_col="3">
+    <text>37.3167</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="5" end_col="5">
+    <text>76</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="6" end_col="6">
+    <text>63</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="7" end_col="7">
+    <text>221</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="8" end_col="8">
+    <text>9.88</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="0" end_col="0">
+    <text>17</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="1" end_col="1">
+    <text>Zolotaya</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="2" end_col="2">
+    <text>68.8663</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="3" end_col="3">
+    <text>37.0166</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="5" end_col="5">
+    <text>89</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="6" end_col="6">
+    <text>70</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="7" end_col="7">
+    <text>228</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="8" end_col="8">
+    <text>10.21</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="0" end_col="0">
+    <text>24</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="1" end_col="1">
+    <text>Pecha</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="2" end_col="2">
+    <text>68.5833</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="3" end_col="3">
+    <text>31.8000</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="5" end_col="5">
+    <text>66</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="6" end_col="6">
+    <text>56</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="7" end_col="7">
+    <text>206</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="8" end_col="8">
+    <text>9.63</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="0" end_col="0">
+    <text>25</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="1" end_col="1">
+    <text>Kulonga</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="2" end_col="2">
+    <text>69.0785</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="3" end_col="3">
+    <text>33.1292</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="5" end_col="5">
+    <text>47</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="6" end_col="6">
+    <text>36</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="7" end_col="7">
+    <text>143</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="8" end_col="8">
+    <text>7.24</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="0" end_col="0">
+    <text>26</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="1" end_col="1">
+    <text>Ura</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="2" end_col="2">
+    <text>69.2833</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="3" end_col="3">
+    <text>32.8167</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="5" end_col="5">
+    <text>103</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="6" end_col="6">
+    <text>73</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="7" end_col="7">
+    <text>228</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="8" end_col="8">
+    <text>10.09</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="0" end_col="0">
+    <text>27</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="1" end_col="1">
+    <text>B. Zap. Litsa</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="2" end_col="2">
+    <text>69.4171</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="3" end_col="3">
+    <text>32.2021</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="5" end_col="5">
+    <text>99</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="6" end_col="6">
+    <text>69</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="7" end_col="7">
+    <text>216</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="8" end_col="8">
+    <text>9.86</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="0" end_col="0">
+    <text>28</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="1" end_col="1">
+    <text>Titovka</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="2" end_col="2">
+    <text>69.5167</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="3" end_col="3">
+    <text>31.9667</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="5" end_col="5">
+    <text>91</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="6" end_col="6">
+    <text>80</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="7" end_col="7">
+    <text>250</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="8" end_col="8">
+    <text>10.70</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="0" end_col="0">
+    <text>29</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="1" end_col="1">
+    <text>Pyave</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="2" end_col="2">
+    <text>69.7939</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="3" end_col="3">
+    <text>32.5119</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="5" end_col="5">
+    <text>38</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="6" end_col="6">
+    <text>28</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="7" end_col="7">
+    <text>167</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="8" end_col="8">
+    <text>8.76</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="0" end_col="0">
+    <text>30</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="1" end_col="1">
+    <text>Pechenga</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="2" end_col="2">
+    <text>69.5500</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="3" end_col="3">
+    <text>31.2500</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="4" end_col="4">
+    <text>Parr/fry</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="5" end_col="5">
+    <text>44</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="6" end_col="6">
+    <text>33</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="7" end_col="7">
+    <text>182</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="8" end_col="8">
+    <text>9.34</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="0" end_col="0">
+    <text>31</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="1" end_col="1">
+    <text>Grense Jakobselv</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="2" end_col="2">
+    <text>69.7782</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="3" end_col="3">
+    <text>30.8383</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="4" end_col="4">
+    <text>Parr</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="5" end_col="5">
+    <text>80</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="6" end_col="6">
+    <text>55</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="7" end_col="7">
+    <text>222</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="8" end_col="8">
+    <text>10.34</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="0" end_col="0">
+    <text>32</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="1" end_col="1">
+    <text>Karpelva</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="2" end_col="2">
+    <text>69.6672</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="3" end_col="3">
+    <text>30.3849</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="4" end_col="4">
+    <text>Parr</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="5" end_col="5">
+    <text>92</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="6" end_col="6">
+    <text>68</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="7" end_col="7">
+    <text>214</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="8" end_col="8">
+    <text>9.76</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="0" end_col="0">
+    <text>33</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="1" end_col="1">
+    <text>Munkelva</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="2" end_col="2">
+    <text>69.6489</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="3" end_col="3">
+    <text>29.4597</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="4" end_col="4">
+    <text>Parr</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="5" end_col="5">
+    <text>93</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="6" end_col="6">
+    <text>86</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="7" end_col="7">
+    <text>220</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="8" end_col="8">
+    <text>9.68</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="0" end_col="0">
+    <text>34</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="1" end_col="1">
+    <text>Neiden</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="2" end_col="2">
+    <text>69.7006</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="3" end_col="3">
+    <text>29.5208</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="4" end_col="4">
+    <text>Parr</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="5" end_col="5">
+    <text>94</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="6" end_col="6">
+    <text>72</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="7" end_col="7">
+    <text>227</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="8" end_col="8">
+    <text>10.20</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="0" end_col="0">
+    <text>35</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="1" end_col="1">
+    <text>Klokkarelva</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="2" end_col="2">
+    <text>69.8580</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="3" end_col="3">
+    <text>29.3867</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="4" end_col="4">
+    <text>Parr</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="5" end_col="5">
+    <text>94</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="6" end_col="6">
+    <text>88</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="7" end_col="7">
+    <text>223</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="8" end_col="8">
+    <text>9.75</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="0" end_col="0">
+    <text>36</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="1" end_col="1">
+    <text>Vesterelva</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="2" end_col="2">
+    <text>70.1587</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="3" end_col="3">
+    <text>28.5804</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="4" end_col="4">
+    <text>Parr</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="5" end_col="5">
+    <text>93</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="6" end_col="6">
+    <text>83</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="7" end_col="7">
+    <text>220</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="8" end_col="8">
+    <text>9.47</text>
+  </cell>
+  <cell start_row="31" end_row="31" start_col="0" end_col="0">
+    <text>37</text>
+  </cell>
+  <cell start_row="31" end_row="31" start_col="1" end_col="1">
+    <text>Bergebyelva</text>
+  </cell>
+  <cell start_row="31" end_row="31" start_col="2" end_col="2">
+    <text>70.1503</text>
+  </cell>
+  <cell start_row="31" end_row="31" start_col="3" end_col="3">
+    <text>28.8985</text>
+  </cell>
+  <cell start_row="31" end_row="31" start_col="4" end_col="4">
+    <text>Parr</text>
+  </cell>
+  <cell start_row="31" end_row="31" start_col="5" end_col="5">
+    <text>107</text>
+  </cell>
+  <cell start_row="31" end_row="31" start_col="6" end_col="6">
+    <text>87</text>
+  </cell>
+  <cell start_row="31" end_row="31" start_col="7" end_col="7">
+    <text>206</text>
+  </cell>
+  <cell start_row="31" end_row="31" start_col="8" end_col="8">
+    <text>9.07</text>
+  </cell>
+</table>

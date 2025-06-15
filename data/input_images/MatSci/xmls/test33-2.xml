@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text>Oxides</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>TiO2</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>V2O5</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="3" end_col="3">
+    <text>Nb2O5</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="4" end_col="4">
+    <text>VO2</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="5" end_col="5">
+    <text>ZrO2</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="6" end_col="6">
+    <text>TiNb2O7</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="7" end_col="7">
+    <text>AlNbO4</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="8" end_col="8">
+    <text>Nb2Zr6O17</text>
+  </cell>
+ <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text></text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text></text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>a=0.3565</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>b=1.2740</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text></text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="5" end_col="5">
+    <text>a=0.5152</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="6" end_col="6">
+    <text>a=2.0351</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="7" end_col="7">
+    <text>a=1.2157</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="8" end_col="8">
+    <text>a=4.0910,</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>Lattice</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>a=0.4593</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>b=1.1500</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>b=0.4883</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text>a=0.8440</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="5" end_col="5">
+    <text>b=0.5208</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="6" end_col="6">
+    <text>b=0.3801</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="7" end_col="7">
+    <text>b=0.3736</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="8" end_col="8">
+    <text>b=0.4930,</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>parameter (nm)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>c=0.2959 [39]</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>b=0.4372 [37]</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>c=0.5561 [40]</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text>c=0.7666 [38]</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="5" end_col="5">
+    <text>c=0.5320 [42]</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="6" end_col="6">
+    <text>c=1.1882 [41]</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="7" end_col="7">
+    <text>c=0.6490 [43]</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="8" end_col="8">
+    <text>c=0.5270 [44]</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>Temperature (°C)</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text />
+  </cell>
+   <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text />
+  </cell>
+   <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text />
+  </cell>
+   <cell start_row="4" end_row="4" start_col="4" end_col="4">
+    <text />
+  </cell>
+   <cell start_row="4" end_row="4" start_col="5" end_col="5">
+    <text />
+  </cell>
+   <cell start_row="4" end_row="4" start_col="6" end_col="6">
+    <text />
+  </cell>
+   <cell start_row="4" end_row="4" start_col="7" end_col="7">
+    <text />
+  </cell>
+   <cell start_row="4" end_row="4" start_col="8" end_col="8">
+    <text />
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>600</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>+^1</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>+</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>+</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="4" end_col="4">
+    <text>+</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="5" end_col="5">
+    <text>-^2</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="6" end_col="6">
+    <text>+</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="7" end_col="7">
+    <text>-</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="8" end_col="8">
+    <text>-</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>700</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>+</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>+</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>+</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="4" end_col="4">
+    <text>+</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="5" end_col="5">
+    <text>+</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="6" end_col="6">
+    <text>+</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="7" end_col="7">
+    <text>+</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="8" end_col="8">
+    <text>+</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>800</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>-</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>-</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="3" end_col="3">
+    <text>-</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="4" end_col="4">
+    <text>+</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="5" end_col="5">
+    <text>+</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="6" end_col="6">
+    <text>+</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="7" end_col="7">
+    <text>+</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="8" end_col="8">
+    <text>+</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="0" end_col="0">
+    <text>900(50 h)</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>-</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="2" end_col="2">
+    <text>-</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="3" end_col="3">
+    <text>-</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="4" end_col="4">
+    <text>-</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="5" end_col="5">
+    <text>-</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="6" end_col="6">
+    <text>+</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="7" end_col="7">
+    <text>+</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="8" end_col="8">
+    <text>+</text>
+  </cell>
+</table>

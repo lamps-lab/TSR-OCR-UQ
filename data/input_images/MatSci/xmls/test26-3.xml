@@ -1,0 +1,777 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text>Alloy</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>ρ, g/cm3</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>σ_0.2, MPa</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="3" end_col="3">
+    <text>σ_0.2/p, MPa.cm3/g</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="4" end_col="4">
+    <text>ef, %</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="5" end_col="5">
+    <text>Ref.</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text>Ti40</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>5.41</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>1122</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>207</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="4" end_col="4">
+    <text>27</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="5" end_col="5">
+    <text>This work</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>1. Al0NbTiMoV</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>7.3</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>1200</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>164</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text>25.6</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="5" end_col="5">
+    <text>32</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>2. Al0.25NbTiMoV</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>7</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>1250</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>179</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text>12.9</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="5" end_col="5">
+    <text>32</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>3. Al0.5NbTiMoV</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>6.8</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>1625</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>239</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="4" end_col="4">
+    <text>11.3</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="5" end_col="5">
+    <text>32</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>4. Al0.75NbTiMoV</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>6.6</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>1260</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>191</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="4" end_col="4">
+    <text>7.5</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="5" end_col="5">
+    <text>32</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>5. AlNbTiMoV</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>6.4</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>1375</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>215</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="4" end_col="4">
+    <text>2.5</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="5" end_col="5">
+    <text>32</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>6. NbTiVTaAl0</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>9.1</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>1092</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="3" end_col="3">
+    <text>120</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="4" end_col="4">
+    <text>50.0</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="5" end_col="5">
+    <text>33</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="0" end_col="0">
+    <text>7. NbTiVTaAl0.25</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>8.8</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="2" end_col="2">
+    <text>1330</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="3" end_col="3">
+    <text>151</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="4" end_col="4">
+    <text>55.0</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="5" end_col="5">
+    <text>33</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="0" end_col="0">
+    <text>8. NbTiVTaAl0.5</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="1" end_col="1">
+    <text>8.4</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="2" end_col="2">
+    <text>1012</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="3" end_col="3">
+    <text>120</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="4" end_col="4">
+    <text>58.0</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="5" end_col="5">
+    <text>33</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="0" end_col="0">
+    <text>9. NbTiVTaAl1</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>7.9</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="2" end_col="2">
+    <text>991</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="3" end_col="3">
+    <text>125</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="4" end_col="4">
+    <text>65.0</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="5" end_col="5">
+    <text>33</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="0" end_col="0">
+    <text>10. VTaTiMoAl0</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="1" end_col="1">
+    <text>9.5</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="2" end_col="2">
+    <text>1221</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="3" end_col="3">
+    <text>129</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="4" end_col="4">
+    <text>9.9</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="5" end_col="5">
+    <text>34</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="0" end_col="0">
+    <text>11. VTaTiMoAl0.2</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="1" end_col="1">
+    <text>9.2</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="2" end_col="2">
+    <text>1021</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="3" end_col="3">
+    <text>111</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="4" end_col="4">
+    <text>6.8</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="5" end_col="5">
+    <text>34</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="0" end_col="0">
+    <text>12. VTaTiMoAl0.6</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="1" end_col="1">
+    <text>8.6</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="2" end_col="2">
+    <text>962</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="3" end_col="3">
+    <text>112</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="4" end_col="4">
+    <text>4.2</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="5" end_col="5">
+    <text>34</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="0" end_col="0">
+    <text>13. Al0.5HfNbTaTiZr</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="1" end_col="1">
+    <text>9.3</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="2" end_col="2">
+    <text>1302</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="3" end_col="3">
+    <text>140</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="4" end_col="4">
+    <text>46.0</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="5" end_col="5">
+    <text>35</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="0" end_col="0">
+    <text>14. Al0.75HfNbTaTiZr</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="1" end_col="1">
+    <text>9</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="2" end_col="2">
+    <text>1415</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="3" end_col="3">
+    <text>157</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="4" end_col="4">
+    <text>30.0</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="5" end_col="5">
+    <text>35</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="0" end_col="0">
+    <text>15. Mo0.5NbHf0.5ZrTi</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="1" end_col="1">
+    <text>7.9</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="2" end_col="2">
+    <text>1176</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="3" end_col="3">
+    <text>149</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="4" end_col="4">
+    <text>24.6</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="5" end_col="5">
+    <text>36</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="0" end_col="0">
+    <text>16. HfNbTaTi3Zr2</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="1" end_col="1">
+    <text>8.2</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="2" end_col="2">
+    <text>903</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="3" end_col="3">
+    <text>110</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="4" end_col="4">
+    <text>18.8</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="5" end_col="5">
+    <text>37</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="0" end_col="0">
+    <text>17. HfMoNbTaTiZr</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="1" end_col="1">
+    <text>10</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="2" end_col="2">
+    <text>1512</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="3" end_col="3">
+    <text>151</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="4" end_col="4">
+    <text>12.0</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="5" end_col="5">
+    <text>38</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="0" end_col="0">
+    <text>18. HfMoTaTiZr</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="1" end_col="1">
+    <text>10.2</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="2" end_col="2">
+    <text>1600</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="3" end_col="3">
+    <text>157</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="4" end_col="4">
+    <text>4.0</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="5" end_col="5">
+    <text>39</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="0" end_col="0">
+    <text>19. MoNbHfZrTi </text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="1" end_col="1">
+    <text>8.7</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="2" end_col="2">
+    <text>1719</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="3" end_col="3">
+    <text>198</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="4" end_col="4">
+    <text>10.1</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="5" end_col="5">
+    <text>40</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="0" end_col="0">
+    <text>20. TiZrHfNbTa</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="1" end_col="1">
+    <text>9.9</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="2" end_col="2">
+    <text>810</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="3" end_col="3">
+    <text>82</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="4" end_col="4">
+    <text>8.0</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="5" end_col="5">
+    <text>41</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="0" end_col="0">
+    <text>21. TaNbHfZr</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="1" end_col="1">
+    <text>11.1</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="2" end_col="2">
+    <text>1315</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="3" end_col="3">
+    <text>118</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="4" end_col="4">
+    <text>30.0</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="5" end_col="5">
+    <text>42</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="0" end_col="0">
+    <text>22. TiZrNbV</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="1" end_col="1">
+    <text>6.5</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="2" end_col="2">
+    <text>1104</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="3" end_col="3">
+    <text>170</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="4" end_col="4">
+    <text>50.0</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="5" end_col="5">
+    <text>43</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="0" end_col="0">
+    <text>23. TiZrNbVMo0.3</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="1" end_col="1">
+    <text>6.7</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="2" end_col="2">
+    <text>1289</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="3" end_col="3">
+    <text>192</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="4" end_col="4">
+    <text>42.0</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="5" end_col="5">
+    <text>43</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="0" end_col="0">
+    <text>24. TiZrNbVMo0.5</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="1" end_col="1">
+    <text>6.8</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="2" end_col="2">
+    <text>1473</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="3" end_col="3">
+    <text>217</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="4" end_col="4">
+    <text>32.0</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="5" end_col="5">
+    <text>43</text>
+  </cell>
+   <cell start_row="26" end_row="26" start_col="0" end_col="0">
+    <text>25. TiZrNbVMo0.7</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="1" end_col="1">
+    <text>7</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="2" end_col="2">
+    <text>1706</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="3" end_col="3">
+    <text>244</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="4" end_col="4">
+    <text>32.0</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="5" end_col="5">
+    <text>43</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="0" end_col="0">
+    <text>26. TiZrNbVMo0.1</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="1" end_col="1">
+    <text>7.1</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="2" end_col="2">
+    <text>1779</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="3" end_col="3">
+    <text>251</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="4" end_col="4">
+    <text>32.0</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="5" end_col="5">
+    <text>43</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="0" end_col="0">
+    <text>27. TiZrNbV0.3</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="1" end_col="1">
+    <text>6.5</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="2" end_col="2">
+    <text>866</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="3" end_col="3">
+    <text>133</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="4" end_col="4">
+    <text>45.0</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="5" end_col="5">
+    <text>43</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="0" end_col="0">
+    <text>28. TiZrNbV0.3Mo0.1</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="1" end_col="1">
+    <text>6.6</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="2" end_col="2">
+    <text>932</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="3" end_col="3">
+    <text>141</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="4" end_col="4">
+    <text>45.0</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="5" end_col="5">
+    <text>43</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="0" end_col="0">
+    <text>29. TiZrNbV0.3Mo0.3</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="1" end_col="1">
+    <text>6.8</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="2" end_col="2">
+    <text>1312</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="3" end_col="3">
+    <text>193</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="4" end_col="4">
+    <text>50.0</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="5" end_col="5">
+    <text>43</text>
+  </cell>
+  <cell start_row="31" end_row="31" start_col="0" end_col="0">
+    <text>30. Ti0NbMoTaW</text>
+  </cell>
+  <cell start_row="31" end_row="31" start_col="1" end_col="1">
+    <text>13.6</text>
+  </cell>
+  <cell start_row="31" end_row="31" start_col="2" end_col="2">
+    <text>996</text>
+  </cell>
+  <cell start_row="31" end_row="31" start_col="3" end_col="3">
+    <text>73</text>
+  </cell>
+  <cell start_row="31" end_row="31" start_col="4" end_col="4">
+    <text>1.9</text>
+  </cell>
+  <cell start_row="31" end_row="31" start_col="5" end_col="5">
+    <text>44</text>
+  </cell>
+  <cell start_row="32" end_row="32" start_col="0" end_col="0">
+    <text>31. Ti0.25NbMoTaW</text>
+  </cell>
+  <cell start_row="32" end_row="32" start_col="1" end_col="1">
+    <text>13</text>
+  </cell>
+  <cell start_row="32" end_row="32" start_col="2" end_col="2">
+    <text>1109</text>
+  </cell>
+  <cell start_row="32" end_row="32" start_col="3" end_col="3">
+    <text>85</text>
+  </cell>
+  <cell start_row="32" end_row="32" start_col="4" end_col="4">
+    <text>2.5</text>
+  </cell>
+  <cell start_row="32" end_row="32" start_col="5" end_col="5">
+    <text>44</text>
+  </cell>
+  <cell start_row="33" end_row="33" start_col="0" end_col="0">
+    <text>32. Ti0.5NbMoTaW</text>
+  </cell>
+  <cell start_row="33" end_row="33" start_col="1" end_col="1">
+    <text>12.6</text>
+  </cell>
+  <cell start_row="33" end_row="33" start_col="2" end_col="2">
+    <text>1211</text>
+  </cell>
+  <cell start_row="33" end_row="33" start_col="3" end_col="3">
+    <text>96</text>
+  </cell>
+  <cell start_row="33" end_row="33" start_col="4" end_col="4">
+    <text>5.9</text>
+  </cell>
+  <cell start_row="33" end_row="33" start_col="5" end_col="5">
+    <text>44</text>
+  </cell>
+  <cell start_row="34" end_row="34" start_col="0" end_col="0">
+    <text>33. Ti0.75NbMoTaW</text>
+  </cell>
+  <cell start_row="34" end_row="34" start_col="1" end_col="1">
+    <text>12.1</text>
+  </cell>
+  <cell start_row="34" end_row="34" start_col="2" end_col="2">
+    <text>1304</text>
+  </cell>
+  <cell start_row="34" end_row="34" start_col="3" end_col="3">
+    <text>108</text>
+  </cell>
+  <cell start_row="34" end_row="34" start_col="4" end_col="4">
+    <text>8.0</text>
+  </cell>
+  <cell start_row="34" end_row="34" start_col="5" end_col="5">
+    <text>44</text>
+  </cell>
+  <cell start_row="35" end_row="35" start_col="0" end_col="0">
+    <text>34. Ti1NbMoTaW</text>
+  </cell>
+  <cell start_row="35" end_row="35" start_col="1" end_col="1">
+    <text>11.7</text>
+  </cell>
+  <cell start_row="35" end_row="35" start_col="2" end_col="2">
+    <text>1455</text>
+  </cell>
+  <cell start_row="35" end_row="35" start_col="3" end_col="3">
+    <text>124</text>
+  </cell>
+  <cell start_row="35" end_row="35" start_col="4" end_col="4">
+    <text>11.5</text>
+  </cell>
+  <cell start_row="35" end_row="35" start_col="5" end_col="5">
+    <text>44</text>
+  </cell>
+  <cell start_row="36" end_row="36" start_col="0" end_col="0">
+    <text>35. MoNbTaTiV</text>
+  </cell>
+  <cell start_row="36" end_row="36" start_col="1" end_col="1">
+    <text>9.3</text>
+  </cell>
+  <cell start_row="36" end_row="36" start_col="2" end_col="2">
+    <text>1400</text>
+  </cell>
+  <cell start_row="36" end_row="36" start_col="3" end_col="3">
+    <text>151</text>
+  </cell>
+  <cell start_row="36" end_row="36" start_col="4" end_col="4">
+    <text>30.0</text>
+  </cell>
+  <cell start_row="36" end_row="36" start_col="5" end_col="5">
+    <text>45</text>
+  </cell>
+  <cell start_row="37" end_row="37" start_col="0" end_col="0">
+    <text>36. TiNbMoTaW</text>
+  </cell>
+  <cell start_row="37" end_row="37" start_col="1" end_col="1">
+    <text>11.2</text>
+  </cell>
+  <cell start_row="37" end_row="37" start_col="2" end_col="2">
+    <text>1343</text>
+  </cell>
+  <cell start_row="37" end_row="37" start_col="3" end_col="3">
+    <text>120</text>
+  </cell>
+  <cell start_row="37" end_row="37" start_col="4" end_col="4">
+    <text>14.1</text>
+  </cell>
+  <cell start_row="37" end_row="37" start_col="5" end_col="5">
+    <text>46</text>
+  </cell>
+  <cell start_row="38" end_row="38" start_col="0" end_col="0">
+    <text>37. TiVNbMoTaW</text>
+  </cell>
+  <cell start_row="38" end_row="38" start_col="1" end_col="1">
+    <text>10.9</text>
+  </cell>
+  <cell start_row="38" end_row="38" start_col="2" end_col="2">
+    <text>1515</text>
+  </cell>
+  <cell start_row="38" end_row="38" start_col="3" end_col="3">
+    <text>139</text>
+  </cell>
+  <cell start_row="38" end_row="38" start_col="4" end_col="4">
+    <text>10.6</text>
+  </cell>
+  <cell start_row="38" end_row="38" start_col="5" end_col="5">
+    <text>46</text>
+  </cell>
+  <cell start_row="39" end_row="39" start_col="0" end_col="0">
+    <text>38. MoNbTaV</text>
+  </cell>
+  <cell start_row="39" end_row="39" start_col="1" end_col="1">
+    <text>10.6</text>
+  </cell>
+  <cell start_row="39" end_row="39" start_col="2" end_col="2">
+    <text>1500</text>
+  </cell>
+  <cell start_row="39" end_row="39" start_col="3" end_col="3">
+    <text>142</text>
+  </cell>
+  <cell start_row="39" end_row="39" start_col="4" end_col="4">
+    <text>21.0</text>
+  </cell>
+  <cell start_row="39" end_row="39" start_col="5" end_col="5">
+    <text>47</text>
+  </cell>
+  <cell start_row="40" end_row="40" start_col="0" end_col="0">
+    <text>39. NbTaVW</text>
+  </cell>
+  <cell start_row="40" end_row="40" start_col="1" end_col="1">
+    <text>12.8</text>
+  </cell>
+  <cell start_row="40" end_row="40" start_col="2" end_col="2">
+    <text>1530</text>
+  </cell>
+  <cell start_row="40" end_row="40" start_col="3" end_col="3">
+    <text>120</text>
+  </cell>
+  <cell start_row="40" end_row="40" start_col="4" end_col="4">
+    <text>12.0</text>
+  </cell>
+  <cell start_row="40" end_row="40" start_col="5" end_col="5">
+    <text>48</text>
+  </cell>
+  <cell start_row="41" end_row="41" start_col="0" end_col="0">
+    <text>40. NbTaTiVW</text>
+  </cell>
+  <cell start_row="41" end_row="41" start_col="1" end_col="1">
+    <text>11</text>
+  </cell>
+  <cell start_row="41" end_row="41" start_col="2" end_col="2">
+    <text>1420</text>
+  </cell>
+  <cell start_row="41" end_row="41" start_col="3" end_col="3">
+    <text>129</text>
+  </cell>
+  <cell start_row="41" end_row="41" start_col="4" end_col="4">
+    <text>20.0</text>
+  </cell>
+  <cell start_row="41" end_row="41" start_col="5" end_col="5">
+    <text>48</text>
+  </cell>
+  <cell start_row="42" end_row="42" start_col="0" end_col="0">
+    <text>41. TiZrNbTa</text>
+  </cell>
+  <cell start_row="42" end_row="42" start_col="1" end_col="1">
+    <text>8.9</text>
+  </cell>
+  <cell start_row="42" end_row="42" start_col="2" end_col="2">
+    <text>1100</text>
+  </cell>
+  <cell start_row="42" end_row="42" start_col="3" end_col="3">
+    <text>124</text>
+  </cell>
+  <cell start_row="42" end_row="42" start_col="4" end_col="4">
+    <text>48.0</text>
+  </cell>
+  <cell start_row="42" end_row="42" start_col="5" end_col="5">
+    <text>49</text>
+  </cell>
+</table>

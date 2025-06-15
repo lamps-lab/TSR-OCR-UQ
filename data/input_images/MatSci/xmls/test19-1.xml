@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text>Alloy</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>Property</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>25°C</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="3" end_col="3">
+    <text>600°C</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="4" end_col="4">
+    <text>800°C</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="5" end_col="5">
+    <text>1000°C</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="6" end_col="6">
+    <text>1200°C</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="7" end_col="7">
+    <text>Ref</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text>As-annealed MEA</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>σ0.2 (MPa)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>1760</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>813</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="4" end_col="4">
+    <text>550</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="5" end_col="5">
+    <text>410</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="6" end_col="6">
+    <text>210</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="7" end_col="7">
+    <text>This study</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text></text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>σ5 (MPa)</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>1886</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>893</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text>588</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="5" end_col="5">
+    <text>351</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="6" end_col="6">
+    <text>193</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="7" end_col="7">
+    <text />
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text></text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>σ20 (MPa)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>-</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>698</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text>348</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="5" end_col="5">
+    <text>261</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="6" end_col="6">
+    <text>196</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="7" end_col="7">
+    <text />
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>NbTiV2Zr</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>σ0.2 (MPa)</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>918</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>571</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="4" end_col="4">
+    <text>240</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="5" end_col="5">
+    <text>72</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="6" end_col="6">
+    <text>-</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="7" end_col="7">
+    <text>[5,33]</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>NbTiVZr</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>σ0.2 (MPa)</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>1105</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>843</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="4" end_col="4">
+    <text>187</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="5" end_col="5">
+    <text>58</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="6" end_col="6">
+    <text>-</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="7" end_col="7">
+    <text>[5,33]</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>CnNbTiZr</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>σ0.2 (MPa)</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>1260</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>1035</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="4" end_col="4">
+    <text>300</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="5" end_col="5">
+    <text>115</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="6" end_col="6">
+    <text>-</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="7" end_col="7">
+    <text>[5,33]</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>CrNbTiVZr</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>σ0.2 (MPa)</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>1298</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="3" end_col="3">
+    <text>1230</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="4" end_col="4">
+    <text>615</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="5" end_col="5">
+    <text>259</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="6" end_col="6">
+    <text>-</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="7" end_col="7">
+    <text>[5,33]</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="0" end_col="0">
+    <text>AlNbTiV</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>σ0.2 (MPa)</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="2" end_col="2">
+    <text>1020</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="3" end_col="3">
+    <text>810</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="4" end_col="4">
+    <text>685</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="5" end_col="5">
+    <text>158</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="6" end_col="6">
+    <text>-</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="7" end_col="7">
+    <text>[34]</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="0" end_col="0">
+    <text>HfMoNbTiZr</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="1" end_col="1">
+    <text>σ0.2 (MPa)</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="2" end_col="2">
+    <text>1575</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="3" end_col="3">
+    <text>-</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="4" end_col="4">
+    <text>825</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="5" end_col="5">
+    <text>635</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="6" end_col="6">
+    <text>187</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="7" end_col="7">
+    <text>[35]</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="0" end_col="0">
+    <text>Al0.4Hf0.6NbTaTiZr</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>σ0.2 (MPa)</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="2" end_col="2">
+    <text>1841</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="3" end_col="3">
+    <text>-</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="4" end_col="4">
+    <text>796</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="5" end_col="5">
+    <text>298</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="6" end_col="6">
+    <text>-</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="7" end_col="7">
+    <text>[2]</text>
+  </cell>
+   <cell start_row="11" end_row="11" start_col="0" end_col="0">
+    <text>AlMo0.5NbTa0.5TiZr</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="1" end_col="1">
+    <text>σ0.2 (MPa)</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="2" end_col="2">
+    <text>2000</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="3" end_col="3">
+    <text>-</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="4" end_col="4">
+    <text>1597</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="5" end_col="5">
+    <text>745</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="6" end_col="6">
+    <text>225</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="7" end_col="7">
+    <text>[2]</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="0" end_col="0">
+    <text>AlNb1.5Ta0.5Ti1.5Zr0.5</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="1" end_col="1">
+    <text>σ0.2 (MPa)</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="2" end_col="2">
+    <text>1280</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="3" end_col="3">
+    <text>-</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="4" end_col="4">
+    <text>728</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="5" end_col="5">
+    <text>403</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="6" end_col="6">
+    <text>-</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="7" end_col="7">
+    <text>[18]</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="0" end_col="0">
+    <text>MoNbTaW</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="1" end_col="1">
+    <text>σ0.2 (MPa)</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="2" end_col="2">
+    <text>1058</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="3" end_col="3">
+    <text>561</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="4" end_col="4">
+    <text>552</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="5" end_col="5">
+    <text>548</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="6" end_col="6">
+    <text>506</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="7" end_col="7">
+    <text>[9]</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="0" end_col="0">
+    <text>MoNbTaVW</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="1" end_col="1">
+    <text>σ0.2 (MPa)</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="2" end_col="2">
+    <text>1246</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="3" end_col="3">
+    <text>862</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="4" end_col="4">
+    <text>846</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="5" end_col="5">
+    <text>842</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="6" end_col="6">
+    <text>735</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="7" end_col="7">
+    <text>[9]</text>
+  </cell>
+</table>

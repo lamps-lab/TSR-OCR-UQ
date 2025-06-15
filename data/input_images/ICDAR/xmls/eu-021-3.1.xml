@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="1">
+    <text>Treatment/Therapy</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>Suffered from</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="3" end_col="3">
+    <text>Followed treatment</text>
+  </cell>
+  <cell start_row="1" end_row="2" start_col="0" end_col="0">
+    <text>Allergy problems</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>Count</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>93</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>77</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>Percentage</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>18.8 %</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>15.6 %</text>
+  </cell>
+  <cell start_row="3" end_row="4" start_col="0" end_col="0">
+    <text>Anxiety disorder</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>Count</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>81</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>29</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>Percentage</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>16.4 %</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>5.9 %</text>
+  </cell>
+  <cell start_row="5" end_row="6" start_col="0" end_col="0">
+    <text>Asthma</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>Count</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>31</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>22</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>Percentage</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>6.3 %</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>4.4 %</text>
+  </cell>
+  <cell start_row="7" end_row="8" start_col="0" end_col="0">
+    <text>Chronic fatigue syndrome</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>Count</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>19</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="3" end_col="3">
+    <text>4</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>Percentage</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="2" end_col="2">
+    <text>3.8 %</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="3" end_col="3">
+    <text>0.8 %</text>
+  </cell>
+  <cell start_row="9" end_row="10" start_col="0" end_col="0">
+    <text>Depression</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="1" end_col="1">
+    <text>Count</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="2" end_col="2">
+    <text>48</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="3" end_col="3">
+    <text>12</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>Percentage</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="2" end_col="2">
+    <text>9.7 %</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="3" end_col="3">
+    <text>2.4 %</text>
+  </cell>
+  <cell start_row="11" end_row="12" start_col="0" end_col="0">
+    <text>Diabetes</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="1" end_col="1">
+    <text>Count</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="2" end_col="2">
+    <text>1</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="3" end_col="3">
+    <text>1</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="1" end_col="1">
+    <text>Percentage</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="2" end_col="2">
+    <text>0.2 %</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="3" end_col="3">
+    <text>0.2 %</text>
+  </cell>
+  <cell start_row="13" end_row="14" start_col="0" end_col="0">
+    <text>Sexually transmitted diseases</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="1" end_col="1">
+    <text>Count</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="2" end_col="2">
+    <text>7</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="3" end_col="3">
+    <text>7</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="1" end_col="1">
+    <text>Percentage</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="2" end_col="2">
+    <text>1.4 %</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="3" end_col="3">
+    <text>1.4 %</text>
+  </cell>
+  <cell start_row="15" end_row="16" start_col="0" end_col="0">
+    <text>HIV infection</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="1" end_col="1">
+    <text>Count</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="2" end_col="2">
+    <text>0</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="3" end_col="3">
+    <text>0</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="1" end_col="1">
+    <text>Percentage</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="2" end_col="2">
+    <text>0.0 %</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="3" end_col="3">
+    <text>0.0 %</text>
+  </cell>
+  <cell start_row="17" end_row="18" start_col="0" end_col="0">
+    <text>Substance abuse problem</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="1" end_col="1">
+    <text>Count</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="2" end_col="2">
+    <text>10</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="3" end_col="3">
+    <text>0</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="1" end_col="1">
+    <text>Percentage</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="2" end_col="2">
+    <text>2.0 %</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="3" end_col="3">
+    <text>0.0 %</text>
+  </cell>
+  <cell start_row="19" end_row="20" start_col="0" end_col="0">
+    <text>Back pain</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="1" end_col="1">
+    <text>Count</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="2" end_col="2">
+    <text>202</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="3" end_col="3">
+    <text>56</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="1" end_col="1">
+    <text>Percentage</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="2" end_col="2">
+    <text>40.9 %</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="3" end_col="3">
+    <text>11.3 %</text>
+  </cell>
+  <cell start_row="21" end_row="22" start_col="0" end_col="0">
+    <text>Broken bone/fracture</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="1" end_col="1">
+    <text>Count</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="2" end_col="2">
+    <text>12</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="3" end_col="3">
+    <text>12</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="1" end_col="1">
+    <text>Percentage</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="2" end_col="2">
+    <text>2.4 %</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="3" end_col="3">
+    <text>2.4 %</text>
+  </cell>
+  <cell start_row="23" end_row="24" start_col="0" end_col="0">
+    <text>Bronchitis/ear or sinus infection</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="1" end_col="1">
+    <text>Count</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="2" end_col="2">
+    <text>104</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="3" end_col="3">
+    <text>87</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="1" end_col="1">
+    <text>Percentage</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="2" end_col="2">
+    <text>21.1 %</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="3" end_col="3">
+    <text>17.6 %</text>
+  </cell>
+  <cell start_row="25" end_row="26" start_col="0" end_col="0">
+    <text>Endometriosis</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="1" end_col="1">
+    <text>Count</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="2" end_col="2">
+    <text>6</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="3" end_col="3">
+    <text>5</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="1" end_col="1">
+    <text>Percentage</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="2" end_col="2">
+    <text>1.2 %</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="3" end_col="3">
+    <text>1.0 %</text>
+  </cell>
+</table>

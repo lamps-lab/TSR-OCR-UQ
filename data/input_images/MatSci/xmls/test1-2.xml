@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text />
+  </cell>
+   <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>E_corr(V)</text>
+  </cell>
+   <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>i_corr (A/cm^2)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text>CoCrFeMnNi powder</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>-0.6485</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>0.6300</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>304Lstainless steel powder</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>-0.7280</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>0.6971</text>
+  </cell>
+</table>

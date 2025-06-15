@@ -1,0 +1,882 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="1" start_col="0" end_col="0">
+    <text>Year</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="3">
+    <text>Total</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="4" end_col="6">
+    <text>Public</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="7" end_col="9">
+    <text>Private</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>PK-12</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>PK-8</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>9-12</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="4" end_col="4">
+    <text>PK-12</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="5" end_col="5">
+    <text>PK-8</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="6" end_col="6">
+    <text>9-12</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="7" end_col="7">
+    <text>PK-12</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="8" end_col="8">
+    <text>PK-8</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="9" end_col="9">
+    <text>9-12</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>Actual</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text />
+  </cell>
+   <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text />
+  </cell>
+   <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text />
+  </cell>
+   <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text />
+  </cell>
+   <cell start_row="2" end_row="2" start_col="5" end_col="5">
+    <text />
+  </cell>
+   <cell start_row="2" end_row="2" start_col="6" end_col="6">
+    <text />
+  </cell>
+   <cell start_row="2" end_row="2" start_col="7" end_col="7">
+    <text />
+  </cell>
+   <cell start_row="2" end_row="2" start_col="8" end_col="8">
+    <text />
+  </cell>
+   <cell start_row="2" end_row="2" start_col="9" end_col="9">
+    <text />
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>1996</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>51,544</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>37,481</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>14,062</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text>45,611</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="5" end_col="5">
+    <text>32,762</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="6" end_col="6">
+    <text>12,849</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="7" end_col="7">
+    <text>5,933</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="8" end_col="8">
+    <text>4,719</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="9" end_col="9">
+    <text>1,213</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>1997</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>52,071</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>37,797</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>14,275</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="4" end_col="4">
+    <text>46,127</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="5" end_col="5">
+    <text>33,071</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="6" end_col="6">
+    <text>13,056</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="7" end_col="7">
+    <text>5,944</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="8" end_col="8">
+    <text>4,726</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="9" end_col="9">
+    <text>1,219</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>1998</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>52,526</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>38,091</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>14,435</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="4" end_col="4">
+    <text>46,539</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="5" end_col="5">
+    <text>33,344</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="6" end_col="6">
+    <text>13,195</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="7" end_col="7">
+    <text>5,988</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="8" end_col="8">
+    <text>4,747</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="9" end_col="9">
+    <text>1,240</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>1999</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>52,875</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>38,251</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>14,625</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="4" end_col="4">
+    <text>46,857</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="5" end_col="5">
+    <text>33,486</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="6" end_col="6">
+    <text>13,371</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="7" end_col="7">
+    <text>6,018</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="8" end_col="8">
+    <text>4,764</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="9" end_col="9">
+    <text>1,254</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>2000</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>53,373</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>38,564</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="3" end_col="3">
+    <text>14,809</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="4" end_col="4">
+    <text>47,204</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="5" end_col="5">
+    <text>33,686</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="6" end_col="6">
+    <text>13,517</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="7" end_col="7">
+    <text>6,169</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="8" end_col="8">
+    <text>4,877</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="9" end_col="9">
+    <text>1,292</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="0" end_col="0">
+    <text>2001</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>53,992</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="2" end_col="2">
+    <text>38,929</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="3" end_col="3">
+    <text>15,063</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="4" end_col="4">
+    <text>47,672</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="5" end_col="5">
+    <text>33,936</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="6" end_col="6">
+    <text>13,736</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="7" end_col="7">
+    <text>6,320</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="8" end_col="8">
+    <text>4,993</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="9" end_col="9">
+    <text>1,327</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="0" end_col="0">
+    <text>2002</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="1" end_col="1">
+    <text>54,403</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="2" end_col="2">
+    <text>39,000</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="3" end_col="3">
+    <text>15,404</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="4" end_col="4">
+    <text>48,183</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="5" end_col="5">
+    <text>34,114</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="6" end_col="6">
+    <text>14,069</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="7" end_col="7">
+    <text>6,220</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="8" end_col="8">
+    <text>4,886</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="9" end_col="9">
+    <text>1,335</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="0" end_col="0">
+    <text>2003</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>54,639</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="2" end_col="2">
+    <text>38,962</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="3" end_col="3">
+    <text>15,678</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="4" end_col="4">
+    <text>48,540</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="5" end_col="5">
+    <text>34,201</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="6" end_col="6">
+    <text>14,339</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="7" end_col="7">
+    <text>6,099</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="8" end_col="8">
+    <text>4,761</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="9" end_col="9">
+    <text>1,338</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="0" end_col="0">
+    <text>2004</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="1" end_col="1">
+    <text>54,882</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="2" end_col="2">
+    <text>38,908</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="3" end_col="3">
+    <text>15,974</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="4" end_col="4">
+    <text>48,795</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="5" end_col="5">
+    <text>34,178</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="6" end_col="6">
+    <text>14,618</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="7" end_col="7">
+    <text>6,087</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="8" end_col="8">
+    <text>4,731</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="9" end_col="9">
+    <text>1,356</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="0" end_col="0">
+    <text>2005</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="1" end_col="1">
+    <text>55,187</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="2" end_col="2">
+    <text>38,903</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="3" end_col="3">
+    <text>16,283</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="4" end_col="4">
+    <text>49,113</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="5" end_col="5">
+    <text>34,204</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="6" end_col="6">
+    <text>14,909</text>
+  </cell>
+   <cell start_row="12" end_row="12" start_col="7" end_col="7">
+    <text>6,073</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="8" end_col="8">
+    <text>4,699</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="9" end_col="9">
+    <text>1,374</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="0" end_col="0">
+    <text>2006</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="1" end_col="1">
+    <text>55,307</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="2" end_col="2">
+    <text>38,838</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="3" end_col="3">
+    <text>16,469</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="4" end_col="4">
+    <text>49,316</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="5" end_col="5">
+    <text>34,235</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="6" end_col="6">
+    <text>15,081</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="7" end_col="7">
+    <text>5,991</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="8" end_col="8">
+    <text>4,604</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="9" end_col="9">
+    <text>1,388</text>
+  </cell>
+   <cell start_row="14" end_row="14" start_col="0" end_col="0">
+    <text>2007</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="1" end_col="1">
+    <text>55,203</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="2" end_col="2">
+    <text>38,722</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="3" end_col="3">
+    <text>16,481</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="4" end_col="4">
+    <text>49,293</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="5" end_col="5">
+    <text>34,205</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="6" end_col="6">
+    <text>15,087</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="7" end_col="7">
+    <text>5,910</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="8" end_col="8">
+    <text>4,517</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="9" end_col="9">
+    <text>1,394</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="0" end_col="0">
+    <text>2008</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="1" end_col="1">
+    <text>54,973</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="2" end_col="2">
+    <text>38,620</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="3" end_col="3">
+    <text>16,353</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="4" end_col="4">
+    <text>49,266</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="5" end_col="5">
+    <text>34,286</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="6" end_col="6">
+    <text>14,980</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="7" end_col="7">
+    <text>5,707</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="8" end_col="8">
+    <text>4,335</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="9" end_col="9">
+    <text>1,373</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="0" end_col="0">
+    <text>2009</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="1" end_col="1">
+    <text>54,862</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="2" end_col="2">
+    <text>38,569</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="3" end_col="3">
+    <text>16,293</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="4" end_col="4">
+    <text>49,373</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="5" end_col="5">
+    <text>34,418</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="6" end_col="6">
+    <text>14,955</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="7" end_col="7">
+    <text>5,488</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="8" end_col="8">
+    <text>4,151</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="9" end_col="9">
+    <text>1,338</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="0" end_col="0">
+    <text>2010</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="1" end_col="1">
+    <text>54,876</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="2" end_col="2">
+    <text>38,716</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="3" end_col="3">
+    <text>16,160</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="4" end_col="4">
+    <text>49,484</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="5" end_col="5">
+    <text>34,625</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="6" end_col="6">
+    <text>14,860</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="7" end_col="7">
+    <text>5,391</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="8" end_col="8">
+    <text>4,091</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="9" end_col="9">
+    <text>1,300</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="0" end_col="0">
+    <text>Projected</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="1" end_col="1">
+    <text></text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="2" end_col="2">
+    <text></text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="3" end_col="3">
+    <text></text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="4" end_col="4">
+    <text></text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="5" end_col="5">
+    <text></text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="6" end_col="6">
+    <text></text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="7" end_col="7">
+    <text></text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="8" end_col="8">
+    <text></text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="9" end_col="9">
+    <text></text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="0" end_col="0">
+    <text>2011</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="1" end_col="1">
+    <text>54,956</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="2" end_col="2">
+    <text>38,909</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="3" end_col="3">
+    <text>16,047</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="4" end_col="4">
+    <text>49,636</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="5" end_col="5">
+    <text>34,849</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="6" end_col="6">
+    <text>14,787</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="7" end_col="7">
+    <text>5,320</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="8" end_col="8">
+    <text>4,060</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="9" end_col="9">
+    <text>1,260</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="0" end_col="0">
+    <text>2012</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="1" end_col="1">
+    <text>55,091</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="2" end_col="2">
+    <text>39,115</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="3" end_col="3">
+    <text>15,976</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="4" end_col="4">
+    <text>49,828</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="5" end_col="5">
+    <text>35,076</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="6" end_col="6">
+    <text>14,752</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="7" end_col="7">
+    <text>5,263</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="8" end_col="8">
+    <text>4,039</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="9" end_col="9">
+    <text>1,224</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="0" end_col="0">
+    <text>2013</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="1" end_col="1">
+    <text>55,288</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="2" end_col="2">
+    <text>39,334</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="3" end_col="3">
+    <text>15,954</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="4" end_col="4">
+    <text>50,067</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="5" end_col="5">
+    <text>35,301</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="6" end_col="6">
+    <text>14,766</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="7" end_col="7">
+    <text>5,221</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="8" end_col="8">
+    <text>4,033</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="9" end_col="9">
+    <text>1,188</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="0" end_col="0">
+    <text>2014</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="1" end_col="1">
+    <text>55,599</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="2" end_col="2">
+    <text>39,539</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="3" end_col="3">
+    <text>16,060</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="4" end_col="4">
+    <text>50,407</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="5" end_col="5">
+    <text>35,502</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="6" end_col="6">
+    <text>14,905</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="7" end_col="7">
+    <text>5,192</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="8" end_col="8">
+    <text>4,037</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="9" end_col="9">
+    <text>1,155</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="0" end_col="0">
+    <text>2015</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="1" end_col="1">
+    <text>55,957</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="2" end_col="2">
+    <text>39,788</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="3" end_col="3">
+    <text>16,169</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="4" end_col="4">
+    <text>50,773</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="5" end_col="5">
+    <text>35,735</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="6" end_col="6">
+    <text>15,038</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="7" end_col="7">
+    <text>5,183</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="8" end_col="8">
+    <text>4,053</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="9" end_col="9">
+    <text>1,130</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="0" end_col="0">
+    <text>2016</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="1" end_col="1">
+    <text>56,330</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="2" end_col="2">
+    <text>40,114</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="3" end_col="3">
+    <text>16,217</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="4" end_col="4">
+    <text>51,146</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="5" end_col="5">
+    <text>36,029</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="6" end_col="6">
+    <text>15,116</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="7" end_col="7">
+    <text>5,185</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="8" end_col="8">
+    <text>4,085</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="9" end_col="9">
+    <text>1,100</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="0" end_col="0">
+    <text>2017</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="1" end_col="1">
+    <text>56,722</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="2" end_col="2">
+    <text>40,451</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="3" end_col="3">
+    <text>16,271</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="4" end_col="4">
+    <text>51,524</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="5" end_col="5">
+    <text>36,329</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="6" end_col="6">
+    <text>15,195</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="7" end_col="7">
+    <text>5,198</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="8" end_col="8">
+    <text>4,122</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="9" end_col="9">
+    <text>1,076</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="0" end_col="0">
+    <text>2018</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="1" end_col="1">
+    <text>57,098</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="2" end_col="2">
+    <text>40,797</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="3" end_col="3">
+    <text>16,301</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="4" end_col="4">
+    <text>51,880</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="5" end_col="5">
+    <text>36,639</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="6" end_col="6">
+    <text>15,241</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="7" end_col="7">
+    <text>5,218</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="8" end_col="8">
+    <text>4,158</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="9" end_col="9">
+    <text>1,061</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="0" end_col="0">
+    <text>2019</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="1" end_col="1">
+    <text>57,507</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="2" end_col="2">
+    <text>41,149</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="3" end_col="3">
+    <text>16,358</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="4" end_col="4">
+    <text>52,260</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="5" end_col="5">
+    <text>36,956</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="6" end_col="6">
+    <text>15,304</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="7" end_col="7">
+    <text>5,247</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="8" end_col="8">
+    <text>4,193</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="9" end_col="9">
+    <text>1,054</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="0" end_col="0">
+    <text>2020</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="1" end_col="1">
+    <text>57,975</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="2" end_col="2">
+    <text>41,506</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="3" end_col="3">
+    <text>16,469</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="4" end_col="4">
+    <text>52,688</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="5" end_col="5">
+    <text>37,278</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="6" end_col="6">
+    <text>15,410</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="7" end_col="7">
+    <text>5,287</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="8" end_col="8">
+    <text>4,228</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="9" end_col="9">
+    <text>1,059</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="0" end_col="0">
+    <text>2021</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="1" end_col="1">
+    <text>58,444</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="2" end_col="2">
+    <text>41,861</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="3" end_col="3">
+    <text>16,583</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="4" end_col="4">
+    <text>53,113</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="5" end_col="5">
+    <text>37,598</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="6" end_col="6">
+    <text>15,515</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="7" end_col="7">
+    <text>5,331</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="8" end_col="8">
+    <text>4,263</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="9" end_col="9">
+    <text>1,068</text>
+  </cell>
+</table>

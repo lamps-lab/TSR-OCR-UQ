@@ -1,0 +1,612 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text>Alloy</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>Region</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>Fe</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="3" end_col="3">
+    <text>Co</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="4" end_col="4">
+    <text>Ni</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="5" end_col="5">
+    <text>Cu</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="6" end_col="6">
+    <text>Ti</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="7" end_col="7">
+    <text>Si</text>
+  </cell>
+  <cell start_row="1" end_row="4" start_col="0" end_col="0">
+    <text>Si_0</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>Nominal</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>20.00</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>20.00</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="4" end_col="4">
+    <text>20.00</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="5" end_col="5">
+    <text>20.00</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="6" end_col="6">
+    <text>20.00</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="7" end_col="7">
+    <text>0.00</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>I</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>22.25</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>19.41</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text>18.57</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="5" end_col="5">
+    <text>26.55</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="6" end_col="6">
+    <text>13.23</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="7" end_col="7">
+    <text>0.00</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>II</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>25.99</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>24.52</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text>10.69</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="5" end_col="5">
+    <text>12.97</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="6" end_col="6">
+    <text>25.82</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="7" end_col="7">
+    <text>0.00</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>III</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>1.27</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>1.40</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="4" end_col="4">
+    <text>1.00</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="5" end_col="5">
+    <text>0.95</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="6" end_col="6">
+    <text>95.38</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="7" end_col="7">
+    <text>0.00</text>
+  </cell>
+  <cell start_row="5" end_row="8" start_col="0" end_col="0">
+    <text>Si_0.05</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>Nominal</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>19.80</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>19.80</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="4" end_col="4">
+    <text>19.80</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="5" end_col="5">
+    <text>19.80</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="6" end_col="6">
+    <text>19.80</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="7" end_col="7">
+    <text>1.00</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>I</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>22.46</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>18.61</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="4" end_col="4">
+    <text>18.42</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="5" end_col="5">
+    <text>26.70</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="6" end_col="6">
+    <text>13.38</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="7" end_col="7">
+    <text>0.43</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>II</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>24.45</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="3" end_col="3">
+    <text>26.08</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="4" end_col="4">
+    <text>13.15</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="5" end_col="5">
+    <text>4.65</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="6" end_col="6">
+    <text>28.04</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="7" end_col="7">
+    <text>3.62</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>III</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="2" end_col="2">
+    <text>1.83</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="3" end_col="3">
+    <text>1.67</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="4" end_col="4">
+    <text>1.23</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="5" end_col="5">
+    <text>0.83</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="6" end_col="6">
+    <text>94.43</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="7" end_col="7">
+    <text>0.00</text>
+  </cell>
+  <cell start_row="9" end_row="12" start_col="0" end_col="0">
+    <text>Si_0.1</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="1" end_col="1">
+    <text>Nominal</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="2" end_col="2">
+    <text>19.60</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="3" end_col="3">
+    <text>19.60</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="4" end_col="4">
+    <text>19.60</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="5" end_col="5">
+    <text>19.60</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="6" end_col="6">
+    <text>19.60</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="7" end_col="7">
+    <text>2.00</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>I</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="2" end_col="2">
+    <text>22.52</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="3" end_col="3">
+    <text>17.70</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="4" end_col="4">
+    <text>18.90</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="5" end_col="5">
+    <text>27.26</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="6" end_col="6">
+    <text>12.89</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="7" end_col="7">
+    <text>0.73</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="1" end_col="1">
+    <text>II</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="2" end_col="2">
+    <text>22.68</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="3" end_col="3">
+    <text>25.38</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="4" end_col="4">
+    <text>13.47</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="5" end_col="5">
+    <text>4.58</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="6" end_col="6">
+    <text>26.89</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="7" end_col="7">
+    <text>6.99</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="1" end_col="1">
+    <text>III</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="2" end_col="2">
+    <text>0.77</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="3" end_col="3">
+    <text>0.99</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="4" end_col="4">
+    <text>0.74</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="5" end_col="5">
+    <text>2.11</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="6" end_col="6">
+    <text>95.39</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="7" end_col="7">
+    <text>0.00</text>
+  </cell>
+  <cell start_row="13" end_row="17" start_col="0" end_col="0">
+    <text>S_0.2</text>
+  </cell>
+<cell start_row="13" end_row="13" start_col="1" end_col="1">
+    <text>Nominal</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="2" end_col="2">
+    <text>19.23</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="3" end_col="3">
+    <text>19.23</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="4" end_col="4">
+    <text>19.23</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="5" end_col="5">
+    <text>19.23</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="6" end_col="6">
+    <text>19.23</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="7" end_col="7">
+    <text>3.85</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="1" end_col="1">
+    <text>I</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="2" end_col="2">
+    <text>16.77</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="3" end_col="3">
+    <text>15.61</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="4" end_col="4">
+    <text>21.10</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="5" end_col="5">
+    <text>32.84</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="6" end_col="6">
+    <text>13.06</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="7" end_col="7">
+    <text>0.61</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="1" end_col="1">
+    <text>II</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="2" end_col="2">
+    <text>21.09</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="3" end_col="3">
+    <text>24.49</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="4" end_col="4">
+    <text>14.09</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="5" end_col="5">
+    <text>4.98</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="6" end_col="6">
+    <text>26.27</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="7" end_col="7">
+    <text>9.11</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="1" end_col="1">
+    <text>III</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="2" end_col="2">
+    <text>5.32</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="3" end_col="3">
+    <text>5.53</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="4" end_col="4">
+    <text>3.51</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="5" end_col="5">
+    <text>1.98</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="6" end_col="6">
+    <text>82.32</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="7" end_col="7">
+    <text>1.34</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="1" end_col="1">
+    <text>IV</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="2" end_col="2">
+    <text>3.62</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="3" end_col="3">
+    <text>2.92</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="4" end_col="4">
+    <text>5.52</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="5" end_col="5">
+    <text>85.92</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="6" end_col="6">
+    <text>1.96</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="7" end_col="7">
+    <text>0.00</text>
+  </cell>
+  <cell start_row="18" end_row="22" start_col="0" end_col="0">
+    <text>Si_0.4</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="1" end_col="1">
+    <text>Nominal</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="2" end_col="2">
+    <text>18.52</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="3" end_col="3">
+    <text>18.52</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="4" end_col="4">
+    <text>18.52</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="5" end_col="5">
+    <text>18.52</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="6" end_col="6">
+    <text>18.52</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="7" end_col="7">
+    <text>7.40</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="1" end_col="1">
+    <text>I</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="2" end_col="2">
+    <text>20.57</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="3" end_col="3">
+    <text>15.18</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="4" end_col="4">
+    <text>21.63</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="5" end_col="5">
+    <text>32.26</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="6" end_col="6">
+    <text>9.09</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="7" end_col="7">
+    <text>1.26</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="1" end_col="1">
+    <text>II</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="2" end_col="2">
+    <text>19.04</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="3" end_col="3">
+    <text>23.07</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="4" end_col="4">
+    <text>13.22</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="5" end_col="5">
+    <text>4.33</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="6" end_col="6">
+    <text>26.38</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="7" end_col="7">
+    <text>13.94</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="1" end_col="1">
+    <text>III</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="2" end_col="2">
+    <text>1.51</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="3" end_col="3">
+    <text>1.655</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="4" end_col="4">
+    <text>1.12</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="5" end_col="5">
+    <text>1.72</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="6" end_col="6">
+    <text>93.32</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="7" end_col="7">
+    <text>0.69</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="1" end_col="1">
+    <text>IV</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="2" end_col="2">
+    <text>5.91</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="3" end_col="3">
+    <text>4.09</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="4" end_col="4">
+    <text>7.49</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="5" end_col="5">
+    <text>80.74</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="6" end_col="6">
+    <text>1.77</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="7" end_col="7">
+    <text>0.00</text>
+  </cell>
+  <cell start_row="23" end_row="27" start_col="0" end_col="0">
+    <text>Si_0.5</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="1" end_col="1">
+    <text>Nominal</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="2" end_col="2">
+    <text>18.18</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="3" end_col="3">
+    <text>18.18</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="4" end_col="4">
+    <text>18.18</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="5" end_col="5">
+    <text>18.18</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="6" end_col="6">
+    <text>18.18</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="7" end_col="7">
+    <text>9.10</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="1" end_col="1">
+    <text>I</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="2" end_col="2">
+    <text>21.71</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="3" end_col="3">
+    <text>15.07</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="4" end_col="4">
+    <text>23.00</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="5" end_col="5">
+    <text>28.62</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="6" end_col="6">
+    <text>9.01</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="7" end_col="7">
+    <text>2.59</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="1" end_col="1">
+    <text>II</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="2" end_col="2">
+    <text>18.46</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="3" end_col="3">
+    <text>23.09</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="4" end_col="4">
+    <text>14.18</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="5" end_col="5">
+    <text>4.13</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="6" end_col="6">
+    <text>25.80</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="7" end_col="7">
+    <text>14.34</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="1" end_col="1">
+    <text>III</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="2" end_col="2">
+    <text>3.96</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="3" end_col="3">
+    <text>4.67</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="4" end_col="4">
+    <text>3.81</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="5" end_col="5">
+    <text>1.32</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="6" end_col="6">
+    <text>84.9</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="7" end_col="7">
+    <text>1.33</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="1" end_col="1">
+    <text>IV</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="2" end_col="2">
+    <text>2.33</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="3" end_col="3">
+    <text>1.47</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="4" end_col="4">
+    <text>3.86</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="5" end_col="5">
+    <text>90.22</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="6" end_col="6">
+    <text>2.12</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="7" end_col="7">
+    <text>0.00</text>
+  </cell>
+</table>

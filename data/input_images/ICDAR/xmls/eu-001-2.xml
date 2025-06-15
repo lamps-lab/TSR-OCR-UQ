@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text />
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="3">
+    <text>THRESHOLD FOR RELEASES</text>
+  </cell>
+    <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text />
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>to air kg / year</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>to water kg / year</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>to land kg / year</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>Ammonia (NH3)</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>10000</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>-</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>-</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>Carbon monoxide (CO)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>500000</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>-</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>-</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>Chlorine and inorganic compounds (as HCl)</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>10 000</text>
+   </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>-</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>-</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>Chlorofluorocarbons (CFCs)</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>1</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>-</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>-</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>Flourine and inorganic compounds (as HF)</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>5000</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>-</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>-</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>Halons</text>
+   </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>1</text>
+   </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>-</text>
+   </cell>
+  <cell start_row="7" end_row="7" start_col="3" end_col="3">
+    <text>-</text>
+   </cell>
+  <cell start_row="8" end_row="8" start_col="0" end_col="0">
+    <text>Hydrochlorofluorocarbons (HCFCs)</text>
+   </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>1</text>
+   </cell>
+  <cell start_row="8" end_row="8" start_col="2" end_col="2">
+    <text>-</text>
+   </cell>
+  <cell start_row="8" end_row="8" start_col="3" end_col="3">
+    <text>-</text>
+   </cell>
+  <cell start_row="9" end_row="9" start_col="0" end_col="0">
+    <text>Hydrogen Cyanide (HCN)</text>
+   </cell>
+  <cell start_row="9" end_row="9" start_col="1" end_col="1">
+    <text>200</text>
+   </cell>
+  <cell start_row="9" end_row="9" start_col="2" end_col="2">
+    <text>-</text>
+   </cell>
+  <cell start_row="9" end_row="9" start_col="3" end_col="3">
+    <text>-</text>
+   </cell>
+  <cell start_row="10" end_row="10" start_col="0" end_col="0">
+    <text>Nitrogen Oxides (NOx/NO2)</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>100000</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="2" end_col="2">
+    <text>-</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="3" end_col="3">
+    <text>-</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="0" end_col="0">
+    <text>Non-methane volatile organic compounds (NMVOC)</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="1" end_col="1">
+    <text>100000</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="2" end_col="2">
+    <text>-</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="3" end_col="3">
+    <text>-</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="0" end_col="0">
+    <text>Sulphur oxides (SOx/SO2)</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="1" end_col="1">
+    <text>150000</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="2" end_col="2">
+    <text>-</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="3" end_col="3">
+    <text>-</text>
+  </cell>
+</table>

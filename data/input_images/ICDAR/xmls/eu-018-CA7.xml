@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="1" start_col="0" end_col="0">
+    <text>Country</text>
+  </cell>
+  <cell start_row="0" end_row="1" start_col="1" end_col="1">
+    <text>Sample unit</text>
+  </cell>
+  <cell start_row="0" end_row="1" start_col="2" end_col="2">
+    <text>Sample size</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="3" end_col="4">
+    <text>2007</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="5" end_col="6">
+    <text>2006</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="7" end_col="8">
+    <text>2005</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="9" end_col="10">
+    <text>2004</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="11" end_col="12">
+    <text>2003</text>
+  </cell>
+   <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>N</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="4" end_col="4">
+    <text>% Pos</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="5" end_col="5">
+    <text>N</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="6" end_col="6">
+    <text>% Pos</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="7" end_col="7">
+    <text>N</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="8" end_col="8">
+    <text>% Pos</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="9" end_col="9">
+    <text>N</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="10" end_col="10">
+    <text>% Pos</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="11" end_col="11">
+    <text>N</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="12" end_col="12">
+    <text>% Pos</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>Austria</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>Single</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>25 g</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>109</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text>0.9</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="5" end_col="5">
+    <text>93</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="6" end_col="6">
+    <text>1.1</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="7" end_col="7">
+    <text>89</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="8" end_col="8">
+    <text>1.1</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="9" end_col="9">
+    <text>-</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="10" end_col="10">
+    <text>-</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="11" end_col="11">
+    <text>-</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="12" end_col="12">
+    <text>-</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>Germany</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>Single</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>25 g</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>123</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text>0.8</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="5" end_col="5">
+    <text>290</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="6" end_col="6">
+    <text>0.7</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="7" end_col="7">
+    <text>391</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="8" end_col="8">
+    <text>0.5</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="9" end_col="9">
+    <text>454</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="10" end_col="10">
+    <text>2.0</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="11" end_col="11">
+    <text>188</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="12" end_col="12">
+    <text>2.7</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>Netherlands</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>Single</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>25 g</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>269</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="4" end_col="4">
+    <text>1.1</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="5" end_col="5">
+    <text>397</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="6" end_col="6">
+    <text>0.3</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="7" end_col="7">
+    <text>389</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="8" end_col="8">
+    <text>0</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="9" end_col="9">
+    <text>287</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="10" end_col="10">
+    <text>1.1</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="11" end_col="11">
+    <text>227</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="12" end_col="12">
+    <text>0</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>Spain</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>Single</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>25 g</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>36</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="4" end_col="4">
+    <text>0</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="5" end_col="5">
+    <text>40</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="6" end_col="6">
+    <text>0</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="7" end_col="7">
+    <text>107</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="8" end_col="8">
+    <text>0</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="9" end_col="9">
+    <text>-</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="10" end_col="10">
+    <text>-</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="11" end_col="11">
+    <text>-</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="12" end_col="12">
+    <text>-</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>Total (4 MSs)</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>-</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>-</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>537</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="4" end_col="4">
+    <text>0.9</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="5" end_col="5">
+    <text>820</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="6" end_col="6">
+    <text>0.5</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="7" end_col="7">
+    <text>976</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="8" end_col="8">
+    <text>0.3</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="9" end_col="9">
+    <text>741</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="10" end_col="10">
+    <text>1.7</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="11" end_col="11">
+    <text>415</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="12" end_col="12">
+    <text>1.2</text>
+  </cell>
+</table>

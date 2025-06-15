@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text />
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>Our estimates 1996</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>LDA 1997</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="3" end_col="3">
+    <text>PBUK 1996</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="4" end_col="4">
+    <text>EH 1996</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="5" end_col="5">
+    <text>AIM 1992</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="6" end_col="6">
+    <text>HBS</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="7" end_col="7">
+    <text>OXIRM</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="8" end_col="8">
+    <text>Average of other estimates</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text>Austria</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>58.6</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>79</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>67.9</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="4" end_col="4">
+    <text>72.9</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="5" end_col="5">
+    <text />
+  </cell>
+  <cell start_row="1" end_row="1" start_col="6" end_col="6">
+    <text />
+  </cell>
+  <cell start_row="1" end_row="1" start_col="7" end_col="7">
+    <text />
+  </cell>
+  <cell start_row="1" end_row="1" start_col="8" end_col="8">
+    <text>73.3</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>Bel/Lux</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>61.6</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>57</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>56.9</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text>77.4</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="5" end_col="5">
+    <text>53</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="6" end_col="6">
+    <text>60</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="7" end_col="7">
+    <text />
+  </cell>
+  <cell start_row="2" end_row="2" start_col="8" end_col="8">
+    <text>60.9</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>Denmark</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>59.5</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text />
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>48</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text />
+  </cell>
+  <cell start_row="3" end_row="3" start_col="5" end_col="5">
+    <text />
+  </cell>
+  <cell start_row="3" end_row="3" start_col="6" end_col="6">
+    <text>78</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="7" end_col="7">
+    <text />
+  </cell>
+  <cell start_row="3" end_row="3" start_col="8" end_col="8">
+    <text>63.0</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>Finland</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>89.1</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>96</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>95.4</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="4" end_col="4">
+    <text>97.5</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="5" end_col="5">
+    <text />
+  </cell>
+  <cell start_row="4" end_row="4" start_col="6" end_col="6">
+    <text />
+  </cell>
+  <cell start_row="4" end_row="4" start_col="7" end_col="7">
+    <text />
+  </cell>
+  <cell start_row="4" end_row="4" start_col="8" end_col="8">
+    <text>96.3</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>France</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>50.6</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>67.2</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>60.1</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="4" end_col="4">
+    <text />
+  </cell>
+  <cell start_row="5" end_row="5" start_col="5" end_col="5">
+    <text>49</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="6" end_col="6">
+    <text>65</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="7" end_col="7">
+    <text />
+  </cell>
+  <cell start_row="5" end_row="5" start_col="8" end_col="8">
+    <text>60.3</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>Germany</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>45.4</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>75.2</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>41.5</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="4" end_col="4">
+    <text>73.5</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="5" end_col="5">
+    <text>37</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="6" end_col="6">
+    <text />
+  </cell>
+  <cell start_row="6" end_row="6" start_col="7" end_col="7">
+    <text />
+  </cell>
+  <cell start_row="6" end_row="6" start_col="8" end_col="8">
+    <text>56.8</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>Greece</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>28.0</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text />
+  </cell>
+  <cell start_row="7" end_row="7" start_col="3" end_col="3">
+    <text>58.7</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="4" end_col="4">
+    <text />
+  </cell>
+  <cell start_row="7" end_row="7" start_col="5" end_col="5">
+    <text />
+  </cell>
+  <cell start_row="7" end_row="7" start_col="6" end_col="6">
+    <text />
+  </cell>
+  <cell start_row="7" end_row="7" start_col="7" end_col="7">
+    <text />
+  </cell>
+  <cell start_row="7" end_row="7" start_col="8" end_col="8">
+    <text>58.7</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="0" end_col="0">
+    <text>Ireland</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>64.2</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="2" end_col="2">
+    <text>50</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="3" end_col="3">
+    <text>50.4</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="4" end_col="4">
+    <text />
+  </cell>
+  <cell start_row="8" end_row="8" start_col="5" end_col="5">
+    <text />
+  </cell>
+  <cell start_row="8" end_row="8" start_col="6" end_col="6">
+    <text />
+  </cell>
+  <cell start_row="8" end_row="8" start_col="7" end_col="7">
+    <text />
+  </cell>
+  <cell start_row="8" end_row="8" start_col="8" end_col="8">
+    <text>50.2</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="0" end_col="0">
+    <text>Italy</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="1" end_col="1">
+    <text>11.8</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="2" end_col="2">
+    <text>30</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="3" end_col="3">
+    <text>35</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="4" end_col="4">
+    <text />
+  </cell>
+  <cell start_row="9" end_row="9" start_col="5" end_col="5">
+    <text />
+  </cell>
+  <cell start_row="9" end_row="9" start_col="6" end_col="6">
+    <text>21</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="7" end_col="7">
+    <text>58.5</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="8" end_col="8">
+    <text>36.1</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="0" end_col="0">
+    <text>Netherlands</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>50.4</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="2" end_col="2">
+    <text>79</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="3" end_col="3">
+    <text>76.7</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="4" end_col="4">
+    <text>71.7</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="5" end_col="5">
+    <text>59</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="6" end_col="6">
+    <text />
+  </cell>
+  <cell start_row="10" end_row="10" start_col="7" end_col="7">
+    <text />
+  </cell>
+  <cell start_row="10" end_row="10" start_col="8" end_col="8">
+    <text>71.6</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="0" end_col="0">
+    <text>Portugal</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="1" end_col="1">
+    <text>55.7</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="2" end_col="2">
+    <text>52</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="3" end_col="3">
+    <text>52.9</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="4" end_col="4">
+    <text />
+  </cell>
+  <cell start_row="11" end_row="11" start_col="5" end_col="5">
+    <text />
+  </cell>
+  <cell start_row="11" end_row="11" start_col="6" end_col="6">
+    <text />
+  </cell>
+  <cell start_row="11" end_row="11" start_col="7" end_col="7">
+    <text>55</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="8" end_col="8">
+    <text>53.3</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="0" end_col="0">
+    <text>Spain</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="1" end_col="1">
+    <text>32.1</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="2" end_col="2">
+    <text>38</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="3" end_col="3">
+    <text>34.6</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="4" end_col="4">
+    <text />
+  </cell>
+  <cell start_row="12" end_row="12" start_col="5" end_col="5">
+    <text>23</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="6" end_col="6">
+    <text />
+  </cell>
+  <cell start_row="12" end_row="12" start_col="7" end_col="7">
+    <text>47.7</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="8" end_col="8">
+    <text>35.8</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="0" end_col="0">
+    <text>Sweden</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="1" end_col="1">
+    <text>77.9</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="2" end_col="2">
+    <text>87</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="3" end_col="3">
+    <text>70.5</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="4" end_col="4">
+    <text>93.5</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="5" end_col="5">
+    <text />
+  </cell>
+  <cell start_row="13" end_row="13" start_col="6" end_col="6">
+    <text />
+  </cell>
+  <cell start_row="13" end_row="13" start_col="7" end_col="7">
+    <text />
+  </cell>
+   <cell start_row="13" end_row="13" start_col="8" end_col="8">
+    <text>83.7</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="0" end_col="0">
+    <text>UK</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="1" end_col="1">
+    <text>56.2</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="2" end_col="2">
+    <text>67</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="3" end_col="3">
+    <text>65.2</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="4" end_col="4">
+    <text />
+  </cell>
+  <cell start_row="14" end_row="14" start_col="5" end_col="5">
+    <text>60</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="6" end_col="6">
+    <text>63</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="7" end_col="7">
+    <text />
+  </cell>
+  <cell start_row="14" end_row="14" start_col="8" end_col="8">
+    <text>63.8</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="0" end_col="0">
+    <text>Average</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="1" end_col="1">
+    <text>52.9</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="2" end_col="2">
+    <text />
+  </cell>
+  <cell start_row="15" end_row="15" start_col="3" end_col="3">
+    <text />
+  </cell>
+  <cell start_row="15" end_row="15" start_col="4" end_col="4">
+    <text />
+  </cell>
+  <cell start_row="15" end_row="15" start_col="5" end_col="5">
+    <text />
+  </cell>
+  <cell start_row="15" end_row="15" start_col="6" end_col="6">
+    <text />
+  </cell>
+  <cell start_row="15" end_row="15" start_col="7" end_col="7">
+    <text />
+  </cell>
+  <cell start_row="15" end_row="15" start_col="8" end_col="8">
+    <text>61.7</text>
+  </cell>
+</table>

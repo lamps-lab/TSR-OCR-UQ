@@ -1,0 +1,489 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text>Datasets</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>Metrics</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>PMF</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="3" end_col="3">
+    <text>SoRec</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="4" end_col="4">
+    <text>STE</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="5" end_col="5">
+    <text>SocialMF</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="6" end_col="6">
+    <text>SoReg</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="7" end_col="7">
+    <text>TrustMF</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="8" end_col="8">
+    <text>SoDimRec</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="9" end_col="9">
+    <text>SREPS</text>
+  </cell>
+  <cell start_row="1" end_row="2" start_col="0" end_col="0">
+    <text>FilmTrust d=5</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>MAE</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>0.688 (± 0.0087)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>0.651 (± 0.0092)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="4" end_col="4">
+    <text>0.648 (± 0.0080)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="5" end_col="5">
+    <text>0.641 (± 0.0013)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="6" end_col="6">
+    <text>0.675 (± 0.0038)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="7" end_col="7">
+    <text>0.641 (± 0.0011)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="8" end_col="8">
+    <text>0.639 (± 0.0052)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="9" end_col="9">
+    <text>0.627 (± 0.0017)</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>RMSE</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>0.956 (± 0.0080)</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>0.913 (± 0.0090)</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text>0.905 (± 0.0079)</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="5" end_col="5">
+    <text>0.884 (± 0.0027)</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="6" end_col="6">
+    <text>0.936 (± 0.0123)</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="7" end_col="7">
+    <text>0.885 (± 0.0014)</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="8" end_col="8">
+    <text>0.884 (± 0.0107)</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="9" end_col="9">
+    <text>0.866 (± 0.0031)</text>
+  </cell>
+  <cell start_row="3" end_row="4" start_col="0" end_col="0">
+    <text>Flixster d=5</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>MAE</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>0.816 (± 0.0118)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>0.754 (± 0.0087)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text>0.753 (± 0.0088)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="5" end_col="5">
+    <text>0.77 (± 0.0019)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="6" end_col="6">
+    <text>0.825 (± 0.0049)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="7" end_col="7">
+    <text>0898 (± 0.0015)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="8" end_col="8">
+    <text>0.798 (± 0.0060)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="9" end_col="9">
+    <text>0.726 (± 0.0020)</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>RMSE</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>1.077 (± 0.0090)</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>0.981 (± 0.0085)</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="4" end_col="4">
+    <text>0.0983 (± 0.0080)</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="5" end_col="5">
+    <text>0.999 (± 0.0028)</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="6" end_col="6">
+    <text>1.094 (± 0.0149)</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="7" end_col="7">
+    <text>1.151 (± 0.0022)</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="8" end_col="8">
+    <text>1.064 (± 0.0144)</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="9" end_col="9">
+    <text>0.944 (± 0.0033)</text>
+  </cell>
+  <cell start_row="5" end_row="6" start_col="0" end_col="0">
+    <text>Epinions d=5</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>MAE</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>0.984 (± 0.0168)</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>0.891 (± 0.0135)</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="4" end_col="4">
+    <text>0.958 (± 0.0113)</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="5" end_col="5">
+    <text>0.832 (± 0.0020)</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="6" end_col="6">
+    <text>0.949 (± 0.0053)</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="7" end_col="7">
+    <text>0.819 (± 0.0014)</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="8" end_col="8">
+    <text>0.811 (± 0.0063)</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="9" end_col="9">
+    <text>0.809 (± 0.0023)</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>RMSE</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>1.302 (± 0.0104)</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>1.123 (± 0.0112)</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="4" end_col="4">
+    <text>1 .197 (± 0.0027)</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="5" end_col="5">
+    <text>1.077 (± 0.0132)</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="6" end_col="6">
+    <text>1220 (± 0.0019)</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="7" end_col="7">
+    <text>1.075 (± 0.0019),</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="8" end_col="8">
+    <text>1.067 (± 0.0020)</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="9" end_col="9">
+    <text>1.401 (± 0.0002)</text>
+  </cell>
+  <cell start_row="7" end_row="8" start_col="0" end_col="0">
+    <text>Ciao d=5</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>MAE</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>0.926 (± 0.0105)</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="3" end_col="3">
+    <text>0.773 (± 0.0093)</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="4" end_col="4">
+    <text>0.771 (± 0.0010)</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="5" end_col="5">
+    <text>0.757 (± 0.0016)</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="6" end_col="6">
+    <text>0.907 (± 0.0051)</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="7" end_col="7">
+    <text>0.757 (± 0.0010)</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="8" end_col="8">
+    <text>0.745 (± 0.0056)</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="9" end_col="9">
+    <text>0.728 (± 0.0016)</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>RMSE</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="2" end_col="2">
+    <text>1.216 (± 0.0112)</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="3" end_col="3">
+    <text>1.021 (± 0.0114)</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="4" end_col="4">
+    <text>1.029 (± 0.0082)</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="4" end_col="4">
+    <text>0.990 (± 0.0029)</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="5" end_col="5">
+    <text>1.190 (± 0.0147)</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="6" end_col="6">
+    <text>0.990 (± 0.0020)</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="7" end_col="7">
+    <text>0.977 (± 0.0020)</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="8" end_col="8">
+    <text>0.960 (± 0.0033)</text>
+  </cell>
+  <cell start_row="9" end_row="10" start_col="0" end_col="0">
+    <text>FilmTrust d=10</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="1" end_col="1">
+    <text>MAE</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="2" end_col="2">
+    <text>0.677 (± 0.0101)</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="3" end_col="3">
+    <text>0.638 (± 0.0076)</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="4" end_col="4">
+    <text>0.643 (± 0.0071)</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="5" end_col="5">
+    <text>0.625 (± 0.0013)</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="6" end_col="6">
+    <text>0.668 (± 0.0041)</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="7" end_col="7">
+    <text>0.638 (± 0.0010)</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="8" end_col="8">
+    <text>0.625 (± 0.0044)</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="9" end_col="9">
+    <text>0.615 (± 0.0018)</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>RMSE</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="2" end_col="2">
+    <text>0.917 (± 0.0088)</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="3" end_col="3">
+    <text>0.886 (± 0.0090)</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="4" end_col="4">
+    <text>0.891 (± 0.0076)</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="5" end_col="5">
+    <text>0.869 (± 0.0021)</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="6" end_col="6">
+    <text>0.902 (± 0.0108)</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="7" end_col="7">
+    <text>0.879 (± 0.0018)</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="8" end_col="8">
+    <text>0.868 (± 0.0120)</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="9" end_col="9">
+    <text>0.845 (± 0.0025)</text>
+  </cell>
+ <cell start_row="11" end_row="12" start_col="0" end_col="0">
+    <text>Flixter d=10</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="1" end_col="1">
+    <text>MAE</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="2" end_col="2">
+    <text>0.771 (± 0.0109)</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="3" end_col="3">
+    <text>0.791 (± 0.0094)</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="4" end_col="4">
+    <text>0.788 (± 0.0094)</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="5" end_col="5">
+    <text>0.786 (± 0.0017)</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="6" end_col="6">
+    <text>0.789 (± 0.0055)</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="7" end_col="7">
+    <text>0.826 (± 0.0015)</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="8" end_col="8">
+    <text>0.782 (± 0.0058)</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="9" end_col="9">
+    <text>0.727 (± 0.0016)</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="1" end_col="1">
+    <text>RMSE</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="2" end_col="2">
+    <text>1.019 (± 0.0084)</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="3" end_col="3">
+    <text>1.025 (± 0.0088)</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="4" end_col="4">
+    <text>1.023 (± 0.0097)</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="5" end_col="5">
+    <text>1.017 (± 0.0027)</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="6" end_col="6">
+    <text>1.041 (± 0.0150)</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="7" end_col="7">
+    <text>0.959 (± 0.0030)</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="8" end_col="8">
+    <text>1.007 (± 0.0122)</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="9" end_col="9">
+    <text>0.951 (± 0.0031)</text>
+  </cell>
+ <cell start_row="13" end_row="14" start_col="0" end_col="0">
+    <text>Epinions d=10</text>
+  </cell>
+ <cell start_row="13" end_row="13" start_col="1" end_col="1">
+    <text>MAE</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="2" end_col="2">
+    <text>0.914 (± 0.0144)</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="3" end_col="3">
+    <text>0.887 (± 0.0106)</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="4" end_col="4">
+    <text>0.967 (± 0.0116)</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="5" end_col="5">
+    <text>0.833 (± 0.0016)</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="6" end_col="6">
+    <text>0.940 (± 0.0063)</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="7" end_col="7">
+    <text>0.810 (± 0.0044)</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="8" end_col="8">
+    <text>0.823 (± 0.0055)</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="9" end_col="9">
+    <text>0.799 (± 0.0019)</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="1" end_col="1">
+    <text>RMSE</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="2" end_col="2">
+    <text>1.198 (± 0.0105)</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="3" end_col="3">
+    <text>1.143 (± 0.0116)</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="4" end_col="4">
+    <text>1.289 (± 0.0114)</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="5" end_col="5">
+    <text>1.087 (± 0.0032)</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="6" end_col="6">
+    <text>1.233 (± 0.0163)</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="7" end_col="7">
+    <text>1.103 (± 0.0023)</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="8" end_col="8">
+    <text>1.067 (± 0.0110)</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="9" end_col="9">
+    <text>1.038 (± 0.0001)</text>
+  </cell>
+  <cell start_row="15" end_row="16" start_col="0" end_col="0">
+    <text>Ciao d=10</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="1" end_col="1">
+    <text>MAE</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="2" end_col="2">
+    <text>0.823 (± 0.0130)</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="3" end_col="3">
+    <text>0.768 (± 0.0108)</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="4" end_col="4">
+    <text>0.769 (± 0.0087)</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="5" end_col="5">
+    <text>0.753 (± 0.0016)</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="6" end_col="6">
+    <text>0.821 (± 0.0038)</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="7" end_col="7">
+    <text>0.745 (± 0.0012)</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="8" end_col="8">
+    <text>0.738 (± 0.0053)</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="9" end_col="9">
+    <text>0.722 (± 0.0019)</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="1" end_col="1">
+    <text>RMSE</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="2" end_col="2">
+    <text>1.088 (± 0.0099)</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="3" end_col="3">
+    <text>1.017 (± 0.0110)</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="4" end_col="4">
+    <text>1.018 (± 0.0084)</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="5" end_col="5">
+    <text>0.976 (± 0.0026)</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="6" end_col="6">
+    <text>1.082 (± 0.0134)</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="7" end_col="7">
+    <text>1.022 (± 0.0018)</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="8" end_col="8">
+    <text>0.964 (± 0.0108)</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="9" end_col="9">
+    <text>0.955 (± 0.0029)</text>
+  </cell>
+</table>

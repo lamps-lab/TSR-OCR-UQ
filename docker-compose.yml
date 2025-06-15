@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  table-extraction-uq:
+    build: .
+    image: table-extraction-uq:latest
+    container_name: table_extraction_uq_app
+    ports:
+      - "8501:8501"  # Streamlit port
+    volumes:
+      # Mount source code
+      - ./src:/app/src
+      # Mount data directories
+      - ./data:/app/data
+      # Mount models cache
+      - ./models_cache:/app/models_cache
+    working_dir: /app
+    shm_size: 8G
+    environment:
+      - PYTHONPATH=/app/src:/app
+      - PYTHONUNBUFFERED=1
+    # Keep container running
+    stdin_open: true
+    tty: true
+    # Default command for interactive use
+    command: /bin/bash

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text>Sample Group</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>Some Year 1 Head Start Participation</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>No Year 1 Head Start Participation</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="3" end_col="3">
+    <text>Total</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text>All Randomly Assigned (N=4,667):</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text />
+  </cell>
+   <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text />
+  </cell>
+   <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text />
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>3-Year-Old Cohort</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text />
+  </cell>
+   <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text />
+  </cell>
+   <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text />
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>Head Start Group</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>85.1 %</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>14.9 %</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>100 %</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>Control Group</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>17.3 %</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>82.7 %</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>100 %</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>4-Year-Old Cohort</text>
+  </cell>
+   <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text />
+  </cell>
+   <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text />
+  </cell>
+   <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text />
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>Head Start Group</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>79.8 %</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>20.2 %</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>100 %</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>Control Group</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>13.9 %</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>86.1 %</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="3" end_col="3">
+    <text>100 %</text>
+  </cell>
+</table>

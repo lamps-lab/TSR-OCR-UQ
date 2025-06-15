@@ -1,0 +1,405 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text></text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="4">
+    <text>MNIST</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="5" end_col="8">
+    <text>CIFAR10</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="9" end_col="12">
+    <text>ImageNet</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text>Attack method</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>ASR</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>L_1</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>L_2</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="4" end_col="4">
+    <text>L∞</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="5" end_col="5">
+    <text>ASR</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="6" end_col="6">
+    <text>L_1</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="7" end_col="7">
+    <text>L_2</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="8" end_col="8">
+    <text>L∞</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="9" end_col="9">
+    <text>ASR</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="10" end_col="10">
+    <text>L_1</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="11" end_col="11">
+    <text>L_2</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="12" end_col="12">
+    <text>L∞</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>C and W (L_2)</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>100</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>22.46</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>1.972</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text>0.514</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="5" end_col="5">
+    <text>100</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="6" end_col="6">
+    <text>13.62</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="7" end_col="7">
+    <text>0.392</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="8" end_col="8">
+    <text>0.044</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="9" end_col="9">
+    <text>100</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="10" end_col="10">
+    <text>232.2</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="11" end_col="11">
+    <text>0.705</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="12" end_col="12">
+    <text>0.03</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>FGM-L_1</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>39</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>53.5</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>4.186</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text>0.782</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="5" end_col="5">
+    <text>48.8</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="6" end_col="6">
+    <text>51.97</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="7" end_col="7">
+    <text>1.48</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="8" end_col="8">
+    <text>0.152</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="9" end_col="9">
+    <text>1</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="10" end_col="10">
+    <text>61</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="11" end_col="11">
+    <text>0.187</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="12" end_col="12">
+    <text>0.007</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>FGM-L_2</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>34.6</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>39.15</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>3.284</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="4" end_col="4">
+    <text>0.747</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="5" end_col="5">
+    <text>42.8</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="6" end_col="6">
+    <text>39.5</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="7" end_col="7">
+    <text>1.157</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="8" end_col="8">
+    <text>0.136</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="9" end_col="9">
+    <text>1</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="10" end_col="10">
+    <text>2338</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="11" end_col="11">
+    <text>6.823</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="12" end_col="12">
+    <text>0.25</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>FGM-L∞</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>42.5</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>127.2</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>6.09</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="4" end_col="4">
+    <text>0.296</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="5" end_col="5">
+    <text>52.3</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="6" end_col="6">
+    <text>127.81</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="7" end_col="7">
+    <text>2.373</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="8" end_col="8">
+    <text>0.047</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="9" end_col="9">
+    <text>3</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="10" end_col="10">
+    <text>3655</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="11" end_col="11">
+    <text>7.102</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="12" end_col="12">
+    <text>0.014</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>I-FGM-L_1</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>100</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>32.94</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>2.606</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="4" end_col="4">
+    <text>0.591</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="5" end_col="5">
+    <text>100</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="6" end_col="6">
+    <text>17.53</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="7" end_col="7">
+    <text>0.502</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="8" end_col="8">
+    <text>0.055</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="9" end_col="9">
+    <text>77</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="10" end_col="10">
+    <text>526.4</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="11" end_col="11">
+    <text>1.609</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="12" end_col="12">
+    <text>0.054</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>I-FGM-L_2</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>100</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>30.32</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="3" end_col="3">
+    <text>2.41</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="4" end_col="4">
+    <text>0.561</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="5" end_col="5">
+    <text>100</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="6" end_col="6">
+    <text>17.12</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="7" end_col="7">
+    <text>0.489</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="8" end_col="8">
+    <text>0.054</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="9" end_col="9">
+    <text>100</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="10" end_col="10">
+    <text>774.1</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="11" end_col="11">
+    <text>2.358</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="12" end_col="12">
+    <text>0.086</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="0" end_col="0">
+    <text>I-FGM-L∞</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>100</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="2" end_col="2">
+    <text>71.39</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="3" end_col="3">
+    <text>3.472</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="4" end_col="4">
+    <text>0.227</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="5" end_col="5">
+    <text>100</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="6" end_col="6">
+    <text>33.3</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="7" end_col="7">
+    <text>0.68</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="8" end_col="8">
+    <text>0.018</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="9" end_col="9">
+    <text>100</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="10" end_col="10">
+    <text>864.2</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="11" end_col="11">
+    <text>2.079</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="12" end_col="12">
+    <text>0.01</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="0" end_col="0">
+    <text>EAD (EN rule)</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="1" end_col="1">
+    <text>100</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="2" end_col="2">
+    <text>17.4</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="3" end_col="3">
+    <text>2.001</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="4" end_col="4">
+    <text>0.594</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="5" end_col="5">
+    <text>100</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="6" end_col="6">
+    <text>8.18</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="7" end_col="7">
+    <text>0.502</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="8" end_col="8">
+    <text>0.097</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="9" end_col="9">
+    <text>100</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="10" end_col="10">
+    <text>69.47</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="11" end_col="11">
+    <text>1.563</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="12" end_col="12">
+    <text>0.238</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="0" end_col="0">
+    <text>EAD (L_1 rule)</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>100</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="2" end_col="2">
+    <text>14.11</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="3" end_col="3">
+    <text>2.211</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="4" end_col="4">
+    <text>0.768</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="5" end_col="5">
+    <text>100</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="6" end_col="6">
+    <text>6.066</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="7" end_col="7">
+    <text>0.613</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="8" end_col="8">
+    <text>0.17</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="9" end_col="9">
+    <text>100</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="10" end_col="10">
+    <text>40.9</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="11" end_col="11">
+    <text>1.598</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="12" end_col="12">
+    <text>0.293</text>
+  </cell>
+</table>

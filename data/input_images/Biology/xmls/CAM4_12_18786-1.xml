@@ -1,0 +1,540 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="0" start_col="0" end_col="0">
+    <text>Genes</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="1">
+    <text>Number of variants (% of all P/ LP variants identified)</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="2" end_col="2">
+    <text>Number of variants already known before EXOMA (% if relevant)</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="3" end_col="3">
+    <text>Number of variants with pre-existing personal and/or family criteria for genetic analysis, phenotype-related or not (% if relevant)</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="4" end_col="4">
+    <text>Number of variants with analysis criteria not identified by the oncologist (% if relevant)</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="5" end_col="5">
+    <text>Number of incidental variants (% if relevant)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="0" end_col="0">
+    <text>Actionable genes</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text />
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text />
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text />
+  </cell>
+  <cell start_row="1" end_row="1" start_col="4" end_col="4">
+    <text />
+  </cell>
+  <cell start_row="1" end_row="1" start_col="5" end_col="5">
+    <text />
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>BRCA1</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>7(8.6)</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>5/7 (71.4)</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>7/7</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text>0/7</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="5" end_col="5">
+    <text>1/7 (14.3)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>BRCA2</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>15(18.5)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>4/15 (26.7)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>9/15 (60.0)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text>5/9 (55.6)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="5" end_col="5">
+    <text>2/15 (13.3)</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>PALB2</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>2(2.5)</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>0/2</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>2 / 2</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="4" end_col="4">
+    <text>1 / 2</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="5" end_col="5">
+    <text>0 / 2</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>RAD51C</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>1(1.2)</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>0 / 1</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>1 / 1</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="4" end_col="4">
+    <text>0 / 1</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="5" end_col="5">
+    <text>0 / 1</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>MLH1</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>2(2.5)</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>1 / 2</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>2 / 2</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="4" end_col="4">
+    <text>1 / 2</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="5" end_col="5">
+    <text>0 / 2</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>MSH2</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>2(2.5)</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>1 / 2</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="3" end_col="3">
+    <text>1 / 2</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="4" end_col="4">
+    <text>0 / 1</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="5" end_col="5">
+    <text>1 / 2</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="0" end_col="0">
+    <text>MSH6</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>2(2.5)</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="2" end_col="2">
+    <text>0 / 2</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="3" end_col="3">
+    <text>0 / 2</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="4" end_col="4">
+    <text>N/A</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="5" end_col="5">
+    <text>1 / 2</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="0" end_col="0">
+    <text>APC</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="1" end_col="1">
+    <text>1(1.2)</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="2" end_col="2">
+    <text>0 / 1</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="3" end_col="3">
+    <text>1 / 1</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="4" end_col="4">
+    <text>0 / 1</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="5" end_col="5">
+    <text>0 / 1</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="0" end_col="0">
+    <text>FLCN</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>1(1.2)</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="2" end_col="2">
+    <text>0 / 1</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="3" end_col="3">
+    <text>0 / 1</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="4" end_col="4">
+    <text>N/A</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="5" end_col="5">
+    <text>0 / 1</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="0" end_col="0">
+    <text>NF1</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="1" end_col="1">
+    <text>1(1.2)</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="2" end_col="2">
+    <text>1 / 1</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="3" end_col="3">
+    <text>1 / 1</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="4" end_col="4">
+    <text>0 / 1</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="5" end_col="5">
+    <text>0 / 1</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="0" end_col="0">
+    <text>TP53</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="1" end_col="1">
+    <text>2(2.5)</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="2" end_col="2">
+    <text>1 / 2</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="3" end_col="3">
+    <text>2 / 2</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="4" end_col="4">
+    <text>1 / 2</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="5" end_col="5">
+    <text>0 / 2</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="0" end_col="0">
+    <text>SDHB</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="1" end_col="1">
+    <text>1(1.2)</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="2" end_col="2">
+    <text>1 / 1</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="3" end_col="3">
+    <text>1 / 1</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="4" end_col="4">
+    <text>0 / 1</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="5" end_col="5">
+    <text>1 / 1</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="0" end_col="0">
+    <text>SDHD</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="1" end_col="1">
+    <text>1(1.2)</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="2" end_col="2">
+    <text>0 / 1</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="3" end_col="3">
+    <text>0 / 1</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="4" end_col="4">
+    <text>N/A</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="5" end_col="5">
+    <text>1 / 1</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="0" end_col="0">
+    <text>ATM (hom)</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="1" end_col="1">
+    <text>1(1.2)</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="2" end_col="2">
+    <text>1 / 1</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="3" end_col="3">
+    <text>1 l</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="4" end_col="4">
+    <text>0 / 1</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="5" end_col="5">
+    <text>0 / 1</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="0" end_col="0">
+    <text>Total</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="1" end_col="1">
+    <text>42/81 (51.9)</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="2" end_col="2">
+    <text>17/42 (40.5)</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="3" end_col="3">
+    <text>30 / 42 (71.4)</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="4" end_col="4">
+    <text>8 / 30 (26.7)</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="5" end_col="5">
+    <text>8 / 42 (19.0)</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="0" end_col="5">
+    <text>Non-actionable genes</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="0" end_col="0">
+    <text>CHEK2</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="1" end_col="1">
+    <text>7(8.6)</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="2" end_col="2">
+    <text>0 / 7</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="3" end_col="3">
+    <text>1 / 7 (14.3)</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="4" end_col="4">
+    <text>0 / 1</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="5" end_col="5">
+    <text>2 / 7 (28.6)</text>
+  </cell>
+   <cell start_row="19" end_row="19" start_col="0" end_col="0">
+    <text>CHEK2</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="1" end_col="1">
+    <text>7 (8.6)</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="2" end_col="2">
+    <text>0/7</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="3" end_col="3">
+    <text>1/7 (14.3)</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="4" end_col="4">
+    <text>0/1</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="5" end_col="5">
+    <text>2/7 (28.6)</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="0" end_col="0">
+    <text>ATM (het)</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="1" end_col="1">
+    <text>7 (8.6)</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="2" end_col="2">
+    <text>1/7 (14.3)</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="3" end_col="3">
+    <text>3/7 (42.9)</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="4" end_col="4">
+    <text>1/3 (33.3)</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="5" end_col="5">
+    <text>2/7 (28.6)</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="0" end_col="0">
+    <text>BARD1</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="1" end_col="1">
+    <text>1 (1.2)</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="2" end_col="2">
+    <text>0/1</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="3" end_col="3">
+    <text>1/1</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="4" end_col="4">
+    <text>1/1</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="5" end_col="5">
+    <text>0/1</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="0" end_col="0">
+    <text>RAD50</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="1" end_col="1">
+    <text>1 (1.2)</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="2" end_col="2">
+    <text>0/1</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="3" end_col="3">
+    <text>0/1</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="4" end_col="4">
+    <text>N/A</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="5" end_col="5">
+    <text>1/1</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="0" end_col="0">
+    <text>MITF</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="1" end_col="1">
+    <text>4 (4.9)</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="2" end_col="2">
+    <text>0/4</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="3" end_col="3">
+    <text>0/4</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="4" end_col="4">
+    <text>N/A</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="5" end_col="5">
+    <text>4/4</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="0" end_col="0">
+    <text>NBN</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="1" end_col="1">
+    <text>3 (3.7)</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="2" end_col="2">
+    <text>0/3</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="3" end_col="3">
+    <text>1/3 (33.3)</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="4" end_col="4">
+    <text>0/1</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="5" end_col="5">
+    <text>3/3</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="0" end_col="0">
+    <text>CDKN1B</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="1" end_col="1">
+    <text>1 (1.2)</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="2" end_col="2">
+    <text>0/1</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="3" end_col="3">
+    <text>1/1</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="4" end_col="4">
+    <text>0/1</text>
+  </cell>
+  <cell start_row="25" end_row="25" start_col="5" end_col="5">
+    <text>1/1</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="0" end_col="0">
+    <text>Total</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="1" end_col="1">
+    <text>66/81 (81.5)</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="2" end_col="2">
+    <text>18/66 (27.3)</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="3" end_col="3">
+    <text>37/66 (56.1)</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="4" end_col="4">
+    <text>10/37 (27.0)</text>
+  </cell>
+  <cell start_row="26" end_row="26" start_col="5" end_col="5">
+    <text>21/66 (31.8)</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="0" end_col="2">
+    <text>Others (heterozygous variants of recessive conditions)</text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="3" end_col="3">
+    <text></text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="4" end_col="4">
+    <text></text>
+  </cell>
+  <cell start_row="27" end_row="27" start_col="5" end_col="5">
+    <text></text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="0" end_col="0">
+    <text>MUTYH</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="1" end_col="1">
+    <text>13 (16.0)</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="2" end_col="2">
+    <text>1/13 (7.7)</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="3" end_col="3">
+    <text>7/13 (53.8)</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="4" end_col="4">
+    <text>N/A</text>
+  </cell>
+  <cell start_row="28" end_row="28" start_col="5" end_col="5">
+    <text>N/A</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="0" end_col="0">
+    <text>NTHL1</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="1" end_col="1">
+    <text>2 (2.5)</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="2" end_col="2">
+    <text>0/2</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="3" end_col="3">
+    <text>0/2</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="4" end_col="4">
+    <text>N/A</text>
+  </cell>
+  <cell start_row="29" end_row="29" start_col="5" end_col="5">
+    <text>N/A</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="0" end_col="0">
+    <text>Total</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="1" end_col="1">
+    <text>81/81 (100)</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="2" end_col="2">
+    <text>19/81 (23.5)</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="3" end_col="3">
+    <text>44/81 (54.3)</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="4" end_col="4">
+    <text>10/44 (22.7)</text>
+  </cell>
+  <cell start_row="30" end_row="30" start_col="5" end_col="5">
+    <text>21/81 (26.0)</text>
+  </cell>
+</table>

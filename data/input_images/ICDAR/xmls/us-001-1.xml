@@ -1,0 +1,804 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+  <cell start_row="0" end_row="1" start_col="0" end_col="0">
+    <text>Category</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="1" end_col="4">
+    <text>2005</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="5" end_col="8">
+    <text>2010</text>
+  </cell>
+  <cell start_row="0" end_row="0" start_col="9" end_col="10">
+    <text>Difference</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="1" end_col="1">
+    <text>Number</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="2" end_col="2">
+    <text>Margin of error (±)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="3" end_col="3">
+    <text>Percent</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="4" end_col="4">
+    <text>Margin of error (±)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="5" end_col="5">
+    <text>Number</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="6" end_col="6">
+    <text>Margin of error (±)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="7" end_col="7">
+    <text>Percent</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="8" end_col="8">
+    <text>Margin of error (±)</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="9" end_col="9">
+    <text>Number</text>
+  </cell>
+  <cell start_row="1" end_row="1" start_col="10" end_col="10">
+    <text>Percent</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="0" end_col="0">
+    <text>All ages.....</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="1" end_col="1">
+    <text>291,099</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="2" end_col="2">
+    <text>****</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="3" end_col="3">
+    <text>100.0</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="4" end_col="4">
+    <text>(X)</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="5" end_col="5">
+    <text>303,858</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="6" end_col="6">
+    <text>****</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="7" end_col="7">
+    <text>100.0</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="8" end_col="8">
+    <text>(X)</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="9" end_col="9">
+    <text>12,760</text>
+  </cell>
+  <cell start_row="2" end_row="2" start_col="10" end_col="10">
+    <text>(X)</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="0" end_col="0">
+    <text>With a disability.....</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="1" end_col="1">
+    <text>54,425</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="2" end_col="2">
+    <text>894</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="3" end_col="3">
+    <text>18.7</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="4" end_col="4">
+    <text>0.3</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="5" end_col="5">
+    <text>56,672</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="6" end_col="6">
+    <text>905</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="7" end_col="7">
+    <text>18.7</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="8" end_col="8">
+    <text>0.3</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="9" end_col="9">
+    <text>*2,247</text>
+  </cell>
+  <cell start_row="3" end_row="3" start_col="10" end_col="10">
+    <text>-</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="0" end_col="0">
+    <text>Severe disability.....</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="1" end_col="1">
+    <text>34,947</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="2" end_col="2">
+    <text>601</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="3" end_col="3">
+    <text>12.0</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="4" end_col="4">
+    <text>0.2</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="5" end_col="5">
+    <text>38,284</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="6" end_col="6">
+    <text>654</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="7" end_col="7">
+    <text>12.6</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="8" end_col="8">
+    <text>0.2</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="9" end_col="9">
+    <text>*3,337</text>
+  </cell>
+  <cell start_row="4" end_row="4" start_col="10" end_col="10">
+    <text>*0.6</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="0" end_col="0">
+    <text>Aged 6 and older.....</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="1" end_col="1">
+    <text>266,752</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="2" end_col="2">
+    <text>84</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="3" end_col="3">
+    <text>100.0</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="4" end_col="4">
+    <text>(X)</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="5" end_col="5">
+    <text>278,222</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="6" end_col="6">
+    <text>88</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="7" end_col="7">
+    <text>100.0</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="8" end_col="8">
+    <text>(X)</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="9" end_col="9">
+    <text>*11,469</text>
+  </cell>
+  <cell start_row="5" end_row="5" start_col="10" end_col="10">
+    <text>(X)</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="0" end_col="0">
+    <text>Needed personal assistance..</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="1" end_col="1">
+    <text>10,996</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="2" end_col="2">
+    <text>336</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="3" end_col="3">
+    <text>4.1</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="4" end_col="4">
+    <text>0.1</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="5" end_col="5">
+    <text>12,349</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="6" end_col="6">
+    <text>386</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="7" end_col="7">
+    <text>4.4</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="8" end_col="8">
+    <text>0.1</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="9" end_col="9">
+    <text>*1,353</text>
+  </cell>
+  <cell start_row="6" end_row="6" start_col="10" end_col="10">
+    <text>*0.3</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="0" end_col="0">
+    <text>Aged 15 and older.....</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="1" end_col="1">
+    <text>230,391</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="2" end_col="2">
+    <text>****</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="3" end_col="3">
+    <text>100.0</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="4" end_col="4">
+    <text>(X)</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="5" end_col="5">
+    <text>241,682</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="6" end_col="6">
+    <text>****</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="7" end_col="7">
+    <text>100.0</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="8" end_col="8">
+    <text>(X)</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="9" end_col="9">
+    <text>*11,291</text>
+  </cell>
+  <cell start_row="7" end_row="7" start_col="10" end_col="10">
+    <text>(X)</text>
+  </cell>
+   <cell start_row="8" end_row="8" start_col="0" end_col="0">
+    <text>With a disability........</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="1" end_col="1">
+    <text>49,069</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="2" end_col="2">
+    <text>794</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="3" end_col="3">
+    <text>21.3</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="4" end_col="4">
+    <text>0.3</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="5" end_col="5">
+    <text>51,454</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="6" end_col="6">
+    <text>838</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="7" end_col="7">
+    <text>21.3</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="8" end_col="8">
+    <text>0.3</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="9" end_col="9">
+    <text>*2,385</text>
+  </cell>
+  <cell start_row="8" end_row="8" start_col="10" end_col="10">
+    <text>-</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="0" end_col="0">
+    <text>Severe disability.....</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="1" end_col="1">
+    <text>32,771</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="2" end_col="2">
+    <text>567</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="3" end_col="3">
+    <text>14.2</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="4" end_col="4">
+    <text>0.2</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="5" end_col="5">
+    <text>35,683</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="6" end_col="6">
+    <text>631</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="7" end_col="7">
+    <text>14.8</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="8" end_col="8">
+    <text>0.3</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="9" end_col="9">
+    <text>*2,912</text>
+  </cell>
+  <cell start_row="9" end_row="9" start_col="10" end_col="10">
+    <text>*0.5</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="0" end_col="0">
+    <text>Difficulty seeing.....</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="1" end_col="1">
+    <text>7,793</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="2" end_col="2">
+    <text>350</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="3" end_col="3">
+    <text>3.4</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="4" end_col="4">
+    <text>0.2</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="5" end_col="5">
+    <text>8,077</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="6" end_col="6">
+    <text>354</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="7" end_col="7">
+    <text>3.3</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="8" end_col="8">
+    <text>0.1</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="9" end_col="9">
+    <text>284</text>
+  </cell>
+  <cell start_row="10" end_row="10" start_col="10" end_col="10">
+    <text>-</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="0" end_col="0">
+    <text>Severe........</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="1" end_col="1">
+    <text>1,783</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="2" end_col="2">
+    <text>129</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="3" end_col="3">
+    <text>0.8</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="4" end_col="4">
+    <text>0.1</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="5" end_col="5">
+    <text>2,010</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="6" end_col="6">
+    <text>139</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="7" end_col="7">
+    <text>0.8</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="8" end_col="8">
+    <text>0.1</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="9" end_col="9">
+    <text>*228</text>
+  </cell>
+  <cell start_row="11" end_row="11" start_col="10" end_col="10">
+    <text>0.1</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="0" end_col="0">
+    <text>Severe..........</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="1" end_col="1">
+    <text>993</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="2" end_col="2">
+    <text>103</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="3" end_col="3">
+    <text>0.4</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="4" end_col="4">
+    <text>-</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="5" end_col="5">
+    <text>1,096</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="6" end_col="6">
+    <text>122</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="7" end_col="7">
+    <text>0.5</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="8" end_col="8">
+    <text>0.1</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="9" end_col="9">
+    <text>103</text>
+  </cell>
+  <cell start_row="12" end_row="12" start_col="10" end_col="10">
+    <text>-</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="0" end_col="0">
+    <text>Aged 21 to 64..............</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="1" end_col="1">
+    <text>170,349</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="2" end_col="2">
+    <text>185</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="3" end_col="3">
+    <text>100.0</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="4" end_col="4">
+    <text>(X)</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="5" end_col="5">
+    <text>177,295</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="6" end_col="6">
+    <text>193</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="7" end_col="7">
+    <text>100.0</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="8" end_col="8">
+    <text>(X)</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="9" end_col="9">
+    <text>*6,945</text>
+  </cell>
+  <cell start_row="13" end_row="13" start_col="10" end_col="10">
+    <text>(X)</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="0" end_col="0">
+    <text>With a disability............</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="1" end_col="1">
+    <text>28,141</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="2" end_col="2">
+    <text>622</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="3" end_col="3">
+    <text>16.5</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="4" end_col="4">
+    <text>0.4</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="5" end_col="5">
+    <text>29,479</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="6" end_col="6">
+    <text>705</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="7" end_col="7">
+    <text>16.6</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="8" end_col="8">
+    <text>0.4</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="9" end_col="9">
+    <text>*1,338</text>
+  </cell>
+  <cell start_row="14" end_row="14" start_col="10" end_col="10">
+    <text>0.1</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="0" end_col="0">
+    <text>Employed.............</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="1" end_col="1">
+    <text>12,838</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="2" end_col="2">
+    <text>495</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="3" end_col="3">
+    <text>45.6</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="4" end_col="4">
+    <text>1.2</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="5" end_col="5">
+    <text>12,115</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="6" end_col="6">
+    <text>432</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="7" end_col="7">
+    <text>41.1</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="8" end_col="8">
+    <text>1.0</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="9" end_col="9">
+    <text>*-723</text>
+  </cell>
+  <cell start_row="15" end_row="15" start_col="10" end_col="10">
+    <text>*-4.5</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="0" end_col="0">
+    <text>Severe disability.................</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="1" end_col="1">
+    <text>18,705</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="2" end_col="2">
+    <text>469</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="3" end_col="3">
+    <text>11.0</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="4" end_col="4">
+    <text>0.3</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="5" end_col="5">
+    <text>20,286</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="6" end_col="6">
+    <text>566</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="7" end_col="7">
+    <text>11.4</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="8" end_col="8">
+    <text>0.3</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="9" end_col="9">
+    <text>*1,581</text>
+  </cell>
+  <cell start_row="16" end_row="16" start_col="10" end_col="10">
+    <text>*0.5</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="0" end_col="0">
+    <text>Employed................</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="1" end_col="1">
+    <text>5,738</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="2" end_col="2">
+    <text>277</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="3" end_col="3">
+    <text>30.7</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="4" end_col="4">
+    <text>1.2</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="5" end_col="5">
+    <text>5,570</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="6" end_col="6">
+    <text>261</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="7" end_col="7">
+    <text>27.5</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="8" end_col="8">
+    <text>1.0</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="9" end_col="9">
+    <text>-167</text>
+  </cell>
+  <cell start_row="17" end_row="17" start_col="10" end_col="10">
+    <text>*-3.2</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="0" end_col="0">
+    <text>Nonsevere disability...............</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="1" end_col="1">
+    <text>9,436</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="2" end_col="2">
+    <text>403</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="3" end_col="3">
+    <text>5.5</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="4" end_col="4">
+    <text>0.2</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="5" end_col="5">
+    <text>9,193</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="6" end_col="6">
+    <text>374</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="7" end_col="7">
+    <text>5.2</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="8" end_col="8">
+    <text>0.2</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="9" end_col="9">
+    <text>-243</text>
+  </cell>
+  <cell start_row="18" end_row="18" start_col="10" end_col="10">
+    <text>*-0.4</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="0" end_col="0">
+    <text>Employed............</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="1" end_col="1">
+    <text>7,100</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="2" end_col="2">
+    <text>356</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="3" end_col="3">
+    <text>75.2</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="4" end_col="4">
+    <text>1.6</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="5" end_col="5">
+    <text>6,544</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="6" end_col="6">
+    <text>311</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="7" end_col="7">
+    <text>71.2</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="8" end_col="8">
+    <text>1.6</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="9" end_col="9">
+    <text>*-556</text>
+  </cell>
+  <cell start_row="19" end_row="19" start_col="10" end_col="10">
+    <text>*-4.1</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="0" end_col="0">
+    <text>No disability................</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="1" end_col="1">
+    <text>142,208</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="2" end_col="2">
+    <text>636</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="3" end_col="3">
+    <text>83.5</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="4" end_col="4">
+    <text>0.4</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="5" end_col="5">
+    <text>147,816</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="6" end_col="6">
+    <text>733</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="7" end_col="7">
+    <text>83.4</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="8" end_col="8">
+    <text>0.4</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="9" end_col="9">
+    <text>*5,607</text>
+  </cell>
+  <cell start_row="20" end_row="20" start_col="10" end_col="10">
+    <text>-0.1</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="0" end_col="0">
+    <text>Employed....................</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="1" end_col="1">
+    <text>118,707</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="2" end_col="2">
+    <text>678</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="3" end_col="3">
+    <text>83.5</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="4" end_col="4">
+    <text>0.3</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="5" end_col="5">
+    <text>116,881</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="6" end_col="6">
+    <text>862</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="7" end_col="7">
+    <text>79.1</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="8" end_col="8">
+    <text>0.4</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="9" end_col="9">
+    <text>*-1,826</text>
+  </cell>
+  <cell start_row="21" end_row="21" start_col="10" end_col="10">
+    <text>*-4.4</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="0" end_col="0">
+    <text>Aged 65 and older................</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="1" end_col="1">
+    <text>35,028</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="2" end_col="2">
+    <text>*****</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="3" end_col="3">
+    <text>100.0</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="4" end_col="4">
+    <text>(X)</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="5" end_col="5">
+    <text>38,599</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="6" end_col="6">
+    <text>*****</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="7" end_col="7">
+    <text>100.0</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="8" end_col="8">
+    <text>(X)</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="9" end_col="9">
+    <text>**3,571</text>
+  </cell>
+  <cell start_row="22" end_row="22" start_col="10" end_col="10">
+    <text>(X)</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="0" end_col="0">
+    <text>With a disability.............</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="1" end_col="1">
+    <text>18,132</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="2" end_col="2">
+    <text>324</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="3" end_col="3">
+    <text>51.8</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="4" end_col="4">
+    <text>0.9</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="5" end_col="5">
+    <text>19,234</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="6" end_col="6">
+    <text>327</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="7" end_col="7">
+    <text>49.8</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="8" end_col="8">
+    <text>0.8</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="9" end_col="9">
+    <text>*1,102</text>
+  </cell>
+  <cell start_row="23" end_row="23" start_col="10" end_col="10">
+    <text>*-1.9</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="0" end_col="0">
+    <text>Severe disability............</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="1" end_col="1">
+    <text>12,942</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="2" end_col="2">
+    <text>273</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="3" end_col="3">
+    <text>36.9</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="4" end_col="4">
+    <text>0.8</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="5" end_col="5">
+    <text>14,138</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="6" end_col="6">
+    <text>276</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="7" end_col="7">
+    <text>36.6</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="8" end_col="8">
+    <text>0.7</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="9" end_col="9">
+    <text>*1,196</text>
+  </cell>
+  <cell start_row="24" end_row="24" start_col="10" end_col="10">
+    <text>-0.3</text>
+  </cell>
+</table>
