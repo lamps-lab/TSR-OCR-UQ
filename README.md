@@ -216,3 +216,23 @@ When all items are checked, your system is ready for production use! 🎉
 - **Data persistence**: All data saved in `data/` folder
 - **Container**: Automatically starts/stops as needed
 - **Real calibration**: No more random/dummy data!
+
+## 📚 Citation
+
+If you use this code in your research, please cite our paper:
+
+```bibtex
+@article{ajayi-2024,
+  title={Uncertainty-Aware Complex Scientific Table Data
+Extraction},
+  author={Ajayi, Kehinde and He, Yi and Wu, Jian},
+  journal={Journal Name},
+  year={2024},
+  volume={XX},
+  number={Y},
+  pages={1--15},
+  doi={10.xxxx/xxxxx}
+}
+```
+
+**Paper Link**: [https://doi.org/10.xxxx/xxxxx](https://doi.org/10.xxxx/xxxxx) (coming soon)
