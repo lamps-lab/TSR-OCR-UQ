@@ -6,15 +6,15 @@
 
 ### Step 1: Create Project Folder
 
-1. Create a new folder called `table_extraction_and_uq`
-2. Navigate to this folder in Command Prompt
+1. Create a new folder called `table_extraction_and_uq` inside the cloned repository.
+2. Navigate to this folder in Command Prompt:
 
 ```cmd
 mkdir table_extraction_and_uq
 cd table_extraction_and_uq
 ```
 
-### Step 2: Copy All Files
+### Step 2: Copy All Files Into Appropriate Folders
 
 You should now have these files in your `table_extraction_and_uq` folder:
 
@@ -23,34 +23,33 @@ table_extraction_and_uq/
 ├── Dockerfile
 ├── docker-compose.yml
 ├── requirements.txt
-├── setup.bat
-├── validate.bat
-├── compute_calibration.bat
-├── run_app.bat
-├── stop_app.bat
-├── status.bat
+├── setup.bat (windows)
+├── validate.bat (Windows)
+├── compute_calibration.bat (Windows)
+├── run_app.bat (Windows)
+├── stop_app.bat (Windows)
+├── status.bat (Windows)
 ├── STEP_BY_STEP_SETUP.md          ← This file
 ├── src/
 │   ├── compute_calibration_data.py
 │   ├── streamlit_app.py
 │   ├── validate_setup.py
-│   ├── tsr_ocr.py                 ← Copy from your existing project
-│   ├── utils.py                   ← Copy from your existing project
-│   └── score_functions.py         ← Copy from your existing project
-├── data/                          ← Will be created by setup.bat
-└── models_cache/                  ← Will be created by setup.bat
+│   ├── tsr_ocr.py                
+│   ├── utils.py                   
+│   └── score_functions.py         
+├── data/                          ← Will be created by setup.bat/setup.sh
+└── models_cache/                  ← Will be created by setup.bat/setup.sh
 ```
 
 ### Step 3: Copy Your Data
 
 **Copy your data files:**
-- Copy `domains_test_images.json` to the main project folder (it will be moved to `data/` by setup.bat)
-- Copy all your image folders to a temporary location (you'll move them after setup)
+- Ensure `domains_with_thresholds.json` is inside the `data/` folder 
 
 ### Step 4: Run Initial Setup
 
 ```cmd
-setup.bat
+setup.bat OR (Windows) ./setup.sh (Mac/Linux)
 ```
 
 This will:
@@ -70,15 +69,11 @@ data/input_images/CompSci/images/   ← All CompSci images here
 data/input_images/ICDAR/images/     ← All ICDAR images here
 ```
 
-**Add your test images JSON:**
-```cmd
-# Move domains_test_images.json to: data/
-```
 
 ### Step 7: Validate Setup (Optional)
 
 ```cmd
-validate.bat
+validate.bat (Windows) OR ./validate.sh (Mac/Linux)
 ```
 
 This will:
@@ -90,7 +85,7 @@ This will:
 ### Step 8: Compute Calibration Data
 
 ```cmd
-compute_calibration.bat
+compute_calibration.bat (Windows) OR ./compute_calibration.sh (Mac/Linux)
 ```
 
 This will:
@@ -104,10 +99,10 @@ This will:
 - `data/calibration_data/calibration_scores_aps.npy`
 - `data/calibration_data/calibration_metadata.json`
 
-### Step 9: Run Streamlit App
+### Step 9: Run Streamlit App for User Interface Table Data Extraction
 
 ```cmd
-run_app.bat
+run_app.bat (Windows) OR ./run_app.sh (Mac/Linux)
 ```
 
 This will:
@@ -129,14 +124,14 @@ This will:
 ### Step 11: Stop When Done
 
 ```cmd
-stop_app.bat
+stop_app.bat (Windows) OR ./stop_app.sh (Mac/Linux)
 ```
 
 ## 🔧 Troubleshooting
 
 ### Check Project Status
 ```cmd
-status.bat
+status.bat (Windows) OR ./status.sh (Mac/Linux)
 ```
 
 ### Common Issues
@@ -146,7 +141,7 @@ status.bat
 - Wait for whale icon in system tray
 
 **"Missing src files":**
-- Copy `tsr_ocr.py`, `utils.py`, `score_functions.py` to `src/` folder
+- Copy `tsr_ocr.py`, `utils.py`, `score_functions.py`, and all python files to `src/` folder
 
 **"No calibration data":**
 - Ensure `domains_with_thresholds.json` is in `data/` folder
@@ -197,7 +192,7 @@ status.bat
 - [ ] Calibration files created in `data/calibration_data/`
 - [ ] `run_app.bat` starts successfully
 - [ ] App loads at http://localhost:8501
-- [ ] Shows "Loaded X calibration scores" (not "using fallback")
+- [ ] Shows "Loaded X calibration scores"
 - [ ] Can upload and process images
 - [ ] Can download results
 
