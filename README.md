@@ -127,6 +127,18 @@ This will:
 stop_app.bat (Windows) OR ./stop_app.sh (Mac/Linux)
 ```
 
+## Extract Many Table Images Data
+- Ensure you move all table images into the `data/' folder inside `table_extraction_and_uq` folder
+- Create a directory to save the extracted images e.g. `output` inside `table_extraction_and_uq` folder
+- Next run:
+  ```cmd
+  docker exec table_extraction_uq_app python3 /app/src/tsr_ocr.py --image_dir app/data/path/to/image/folder --out_dir /path/to/save/extracted/JSON/data
+  ```
+- To extract a single table image data, run:
+  ```cmd
+  docker exec table_extraction_uq_app python3 /app/src/tsr_ocr.py --image_dir /path/to/table_image.png --out_dir /path/to/save/extracted/JSON/data
+  ```
+
 ## 🔧 Troubleshooting
 
 ### Check Project Status
