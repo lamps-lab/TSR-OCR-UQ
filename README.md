@@ -208,7 +208,6 @@ status.bat (Windows) OR ./status.sh (Mac/Linux)
 - [ ] Can upload and process images
 - [ ] Can download results
 
-When all items are checked, your system is ready for production use! 🎉
 
 ## 📝 Notes
 
