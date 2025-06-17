@@ -136,7 +136,7 @@ stop_app.bat (Windows) OR ./stop_app.sh (Mac/Linux)
   ```
 - To extract a single table image data, run:
   ```cmd
-  docker exec table_extraction_uq_app python3 /app/src/tsr_ocr.py --image_dir /path/to/table_image.png --out_dir /path/to/save/extracted/JSON/data
+  docker exec table_extraction_uq_app python3 /app/src/tsr_ocr.py --image_path /path/to/table_image.png --out_dir /path/to/save/extracted/JSON/data
   ```
 
 ## 🔧 Troubleshooting
