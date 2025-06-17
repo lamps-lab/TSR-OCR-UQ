@@ -1,6 +1,7 @@
 # TSR-OCR-UQ
 
 # Table Extraction and UQ - Complete Setup Guide
+- 📺 [Watch demo video on YouTube](https://www.youtube.com/watch?v=zucvJlah-5U)
 
 ## 📋 Step-by-Step Instructions
 
