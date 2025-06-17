@@ -50,7 +50,7 @@ table_extraction_and_uq/
 ### Step 4: Run Initial Setup
 
 ```cmd
-setup.bat OR (Windows) ./setup.sh (Mac/Linux)
+setup.bat (Windows) OR ./setup.sh (Mac/Linux)
 ```
 
 This will:
